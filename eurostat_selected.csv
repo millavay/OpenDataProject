@@ -1,0 +1,103 @@
+﻿country_code,city_code,city,indicator,indicator_code,value,year,dataset
+DE,DE003C,München,population,DE1001V,1488719.0,2024,urb_cpop1
+DE,DE001C,Berlin,population,DE1001V,3662381.0,2024,urb_cpop1
+ES,ES002C,Barcelona (greater city),population,DE1001V,2658830.0,2024,urb_cpop1
+ES,ES004C,Sevilla,population,DE1001V,686741.0,2024,urb_cpop1
+ES,ES006C,Málaga,population,DE1001V,592346.0,2024,urb_cpop1
+EE,EE001C,Tallinn,population,DE1001V,457572.0,2024,urb_cpop1
+EE,EE002C,Tartu,population,DE1001V,101032.0,2024,urb_cpop1
+EE,EE003C,Narva,population,DE1001V,53360.0,2024,urb_cpop1
+IT,IT001C,Roma,population,DE1001V,2751747.0,2024,urb_cpop1
+IT,IT002C,Milano (greater city),population,DE1001V,3564724.0,2024,urb_cpop1
+IT,IT011C,Venezia,population,DE1001V,250290.0,2024,urb_cpop1
+HU,HU001C,Budapest (greater city),population,DE1001V,1686222.0,2024,urb_cpop1
+IT,IT007C,Firenze,population,DE1001V,362613.0,2024,urb_cpop1
+PL,PL001C,Warszawa,population,DE1001V,1863845.0,2024,urb_cpop1
+NL,NL003C,Almelo,population,DE1001V,74317.0,2024,urb_cpop1
+PL,PL003C,Kraków,population,DE1001V,809168.0,2024,urb_cpop1
+LV,LV001C,Rīga,population,DE1001V,601882.0,2024,urb_cpop1
+LV,LV002C,Liepāja,population,DE1001V,68106.0,2024,urb_cpop1
+MT,MT001C,Greater Valletta,population,DE1001V,466066.0,2024,urb_cpop1
+NL,NL001C,Amsterdam (greater city),population,DE1001V,1073736.0,2024,urb_cpop1
+SI,SI001C,Ljubljana,population,DE1001V,297575.0,2024,urb_cpop1
+SI,SI002C,Maribor,population,DE1001V,113747.0,2024,urb_cpop1
+FI,FI001C,Helsinki/Helsingfors,population,DE1001V,674500.0,2024,urb_cpop1
+FI,FI002C,Tampere/Tammerfors,population,DE1001V,255050.0,2024,urb_cpop1
+PL,PL005C,Poznań,population,DE1001V,536151.0,2024,urb_cpop1
+CH,CH007C,Winterthur,population,DE1001V,119315.0,2024,urb_cpop1
+CH,CH003C,Geneva (greater city),population,DE1001V,431720.0,2024,urb_cpop1
+PT,PT001C,Lisboa (greater city),population,DE1001V,1935831.0,2024,urb_cpop1
+FI,FI003C,Turku/Åbo,population,DE1001V,201863.0,2024,urb_cpop1
+SI,SI001C,Ljubljana,unemployment_rate,EC1020I,5.5,2024,urb_clma
+SI,SI002C,Maribor,unemployment_rate,EC1020I,7.7,2024,urb_clma
+FI,FI002C,Tampere/Tammerfors,unemployment_rate,EC1020I,13.05,2024,urb_clma
+FI,FI003C,Turku/Åbo,unemployment_rate,EC1020I,13.88,2024,urb_clma
+CH,CH002C,Zurich (greater city),population,DE1001V,721075.0,2024,urb_cpop1
+MT,MT001C,Greater Valletta,unemployment_rate,EC1020I,3.28,2024,urb_clma
+NL,NL001C,Amsterdam (greater city),unemployment_rate,EC1020I,4.75,2024,urb_clma
+NL,NL003C,Almelo,unemployment_rate,EC1020I,4.39,2024,urb_clma
+LV,LV001C,Rīga,unemployment_rate,EC1020I,6.47,2024,urb_clma
+LV,LV002C,Liepāja,unemployment_rate,EC1020I,7.01,2024,urb_clma
+ES,ES006C,Málaga,unemployment_rate,EC1020I,12.3,2024,urb_clma
+EE,EE001C,Tallinn,unemployment_rate,EC1020I,7.88,2024,urb_clma
+EE,EE002C,Tartu,unemployment_rate,EC1020I,4.4,2024,urb_clma
+EE,EE003C,Narva,unemployment_rate,EC1020I,16.18,2024,urb_clma
+ES,ES002C,Barcelona (greater city),unemployment_rate,EC1020I,7.92,2024,urb_clma
+ES,ES004C,Sevilla,unemployment_rate,EC1020I,12.1,2024,urb_clma
+DE,DE001C,Berlin,unemployment_rate,EC1020I,6.88,2024,urb_clma
+DE,DE002C,Hamburg,unemployment_rate,EC1020I,5.76,2024,urb_clma
+DE,DE003C,München,unemployment_rate,EC1020I,4.36,2024,urb_clma
+ES,ES006C,Málaga,annual_rent_per_m2,SA1049V,122.06,2024,urb_clivcon
+ES,ES002C,Barcelona (greater city),annual_rent_per_m2,SA1049V,162.17,2024,urb_clivcon
+ES,ES004C,Sevilla,annual_rent_per_m2,SA1049V,115.3,2024,urb_clivcon
+FI,FI001C,Helsinki/Helsingfors,annual_rent_per_m2,SA1049V,237.66,2024,urb_clivcon
+PT,PT001C,Lisboa (greater city),annual_rent_per_m2,SA1049V,14.0,2024,urb_clivcon
+FI,FI002C,Tampere/Tammerfors,annual_rent_per_m2,SA1049V,195.51,2024,urb_clivcon
+FI,FI003C,Turku/Åbo,annual_rent_per_m2,SA1049V,187.91,2024,urb_clivcon
+BE,BE001C,Bruxelles/Brussel (greater city),monthly_transport_ticket,TT1080V,60.0,2024,urb_ctran
+BE,BE002C,Antwerpen (greater city),monthly_transport_ticket,TT1080V,49.0,2024,urb_ctran
+BE,BE003C,Gent,monthly_transport_ticket,TT1080V,49.0,2024,urb_ctran
+EE,EE001C,Tallinn,monthly_transport_ticket,TT1080V,30.0,2024,urb_ctran
+EE,EE003C,Narva,monthly_transport_ticket,TT1080V,20.0,2024,urb_ctran
+FI,FI003C,Turku/Åbo,monthly_transport_ticket,TT1080V,57.0,2024,urb_ctran
+LV,LV001C,Rīga,monthly_transport_ticket,TT1080V,30.0,2024,urb_ctran
+HU,HU001C,Budapest (greater city),monthly_transport_ticket,TT1080V,22.65,2024,urb_ctran
+LV,LV002C,Liepāja,monthly_transport_ticket,TT1080V,30.0,2024,urb_ctran
+CH,CH007C,Winterthur,monthly_transport_ticket,TT1080V,91.0,2024,urb_ctran
+SI,SI001C,Ljubljana,monthly_transport_ticket,TT1080V,37.0,2024,urb_ctran
+SI,SI002C,Maribor,monthly_transport_ticket,TT1080V,36.0,2024,urb_ctran
+FI,FI001C,Helsinki/Helsingfors,monthly_transport_ticket,TT1080V,66.6,2024,urb_ctran
+FI,FI002C,Tampere/Tammerfors,monthly_transport_ticket,TT1080V,59.0,2024,urb_ctran
+CH,CH002C,Zurich (greater city),monthly_transport_ticket,TT1080V,91.0,2024,urb_ctran
+CH,CH003C,Geneva (greater city),monthly_transport_ticket,TT1080V,73.0,2024,urb_ctran
+BE,BE003C,Gent,population,DE1001V,270133.0,2024,urb_cpop1
+BE,BE001C,Bruxelles/Brussel (greater city),population,DE1001V,1264371.0,2024,urb_cpop1
+BE,BE002C,Antwerpen (greater city),population,DE1001V,547794.0,2024,urb_cpop1
+DE,DE002C,Hamburg,population,DE1001V,1851596.0,2024,urb_cpop1
+NO,NO001C,Oslo (greater city),population,DE1001V,699827.0,2023,urb_cpop1
+EE,EE002C,Tartu,monthly_transport_ticket,TT1080V,28.0,2023,urb_ctran
+CH,CH007C,Winterthur,annual_rent_per_m2,SA1049V,214.8,2023,urb_clivcon
+CH,CH003C,Geneva (greater city),annual_rent_per_m2,SA1049V,243.3,2023,urb_clivcon
+CH,CH002C,Zurich (greater city),annual_rent_per_m2,SA1049V,256.8,2023,urb_clivcon
+LV,LV001C,Rīga,annual_rent_per_m2,SA1049V,69.24,2023,urb_clivcon
+FR,FR008C,Nice (greater city),population,DE1001V,482317.0,2023,urb_cpop1
+IT,IT011C,Venezia,unemployment_rate,EC1020I,5.39,2023,urb_clma
+IT,IT007C,Firenze,unemployment_rate,EC1020I,5.79,2023,urb_clma
+IT,IT001C,Roma,unemployment_rate,EC1020I,8.38,2023,urb_clma
+IT,IT002C,Milano (greater city),unemployment_rate,EC1020I,5.6,2023,urb_clma
+FR,FR001C,Paris (greater city),population,DE1001V,10159710.0,2023,urb_cpop1
+FR,FR002C,Lyon (greater city),population,DE1001V,1229077.0,2023,urb_cpop1
+FR,FR004C,Marseille (greater city),population,DE1001V,973249.0,2023,urb_cpop1
+BE,BE003C,Gent,unemployment_rate,EC1020I,5.36,2023,urb_clma
+BE,BE001C,Bruxelles/Brussel (greater city),unemployment_rate,EC1020I,11.72,2023,urb_clma
+BE,BE002C,Antwerpen (greater city),unemployment_rate,EC1020I,7.36,2023,urb_clma
+FR,FR004C,Marseille (greater city),unemployment_rate,EC1020I,12.98,2023,urb_clma
+FR,FR008C,Nice (greater city),unemployment_rate,EC1020I,11.88,2023,urb_clma
+FR,FR001C,Paris (greater city),unemployment_rate,EC1020I,11.34,2023,urb_clma
+FR,FR002C,Lyon (greater city),unemployment_rate,EC1020I,11.86,2023,urb_clma
+HU,HU001C,Budapest (greater city),unemployment_rate,EC1020I,1.85,2022,urb_clma
+FI,FI001C,Helsinki/Helsingfors,unemployment_rate,EC1020I,10.11,2022,urb_clma
+DE,DE003C,München,annual_rent_per_m2,SA1049V,14.8,2022,urb_clivcon
+DE,DE001C,Berlin,annual_rent_per_m2,SA1049V,9.3,2022,urb_clivcon
+DE,DE002C,Hamburg,annual_rent_per_m2,SA1049V,11.0,2022,urb_clivcon
+LV,LV002C,Liepāja,annual_rent_per_m2,SA1049V,14.11,2022,urb_clivcon

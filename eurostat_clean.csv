@@ -1,0 +1,1613 @@
+﻿country_code,city_code,city,indicator,indicator_code,value,year,dataset
+DE,DE029C,Schwerin,population,DE1001V,97850.0,2024,urb_cpop1
+DE,DE030C,Erfurt,population,DE1001V,219549.0,2024,urb_cpop1
+DE,DE031C,Augsburg,population,DE1001V,298972.0,2024,urb_cpop1
+DE,DE032C,Bonn,population,DE1001V,321680.0,2024,urb_cpop1
+DE,DE033C,Karlsruhe,population,DE1001V,308197.0,2024,urb_cpop1
+DE,DE020C,Göttingen,population,DE1001V,126968.0,2024,urb_cpop1
+DE,DE021C,Mülheim a.d.Ruhr,population,DE1001V,172887.0,2024,urb_cpop1
+DE,DE022C,Moers,population,DE1001V,101601.0,2024,urb_cpop1
+DE,DE023C,Darmstadt,population,DE1001V,164832.0,2024,urb_cpop1
+DE,DE027C,Frankfurt (Oder),population,DE1001V,57065.0,2024,urb_cpop1
+DE,DE034C,Mönchengladbach,population,DE1001V,267667.0,2024,urb_cpop1
+DE,DE035C,Mainz,population,DE1001V,223871.0,2024,urb_cpop1
+DE,DE019C,Wiesbaden,population,DE1001V,287241.0,2024,urb_cpop1
+DE,DE071C,Görlitz,population,DE1001V,55395.0,2024,urb_cpop1
+DE,DE072C,Sankt Augustin,population,DE1001V,56568.0,2024,urb_cpop1
+DE,DE073C,Neu-Ulm,population,DE1001V,62204.0,2024,urb_cpop1
+DE,DE074C,Schweinfurt,population,DE1001V,53938.0,2024,urb_cpop1
+DE,DE080C,Duisburg,population,DE1001V,503185.0,2024,urb_cpop1
+DE,DE017C,Halle an der Saale,population,DE1001V,227639.0,2024,urb_cpop1
+DE,DE018C,Magdeburg,population,DE1001V,242491.0,2024,urb_cpop1
+DE,DE003C,München,population,DE1001V,1488719.0,2024,urb_cpop1
+DE,DE058C,Aschaffenburg,population,DE1001V,72554.0,2024,urb_cpop1
+DE,DE059C,Bamberg,population,DE1001V,75087.0,2024,urb_cpop1
+DE,DE060C,Plauen,population,DE1001V,65954.0,2024,urb_cpop1
+DE,DE063C,Kempten (Allgäu),population,DE1001V,65933.0,2024,urb_cpop1
+DE,DE064C,Landshut,population,DE1001V,68741.0,2024,urb_cpop1
+DE,DE009C,Dresden,population,DE1001V,563019.0,2024,urb_cpop1
+DE,DE010C,Dortmund,population,DE1001V,601343.0,2024,urb_cpop1
+DE,DE067C,Frankenthal (Pfalz),population,DE1001V,48107.0,2024,urb_cpop1
+BG,BG014C,Haskovo,population,DE1001V,79335.0,2024,urb_cpop1
+BG,BG015C,Pazardzhik,population,DE1001V,89507.0,2024,urb_cpop1
+BG,BG017C,Veliko Tarnovo,population,DE1001V,76811.0,2024,urb_cpop1
+DE,DE001C,Berlin,population,DE1001V,3662381.0,2024,urb_cpop1
+DE,DE081C,Mannheim,population,DE1001V,316256.0,2024,urb_cpop1
+DE,DE082C,Gelsenkirchen,population,DE1001V,267284.0,2024,urb_cpop1
+DE,DE056C,Bayreuth,population,DE1001V,73074.0,2024,urb_cpop1
+BG,BG004C,Burgas,population,DE1001V,194809.0,2024,urb_cpop1
+BG,BG005C,Pleven,population,DE1001V,109767.0,2024,urb_cpop1
+BG,BG006C,Ruse,population,DE1001V,138084.0,2024,urb_cpop1
+BG,BG008C,Stara Zagora,population,DE1001V,142348.0,2024,urb_cpop1
+BG,BG009C,Sliven,population,DE1001V,110972.0,2024,urb_cpop1
+BG,BG010C,Dobrich,population,DE1001V,70411.0,2024,urb_cpop1
+BG,BG011C,Shumen,population,DE1001V,77574.0,2024,urb_cpop1
+BG,BG012C,Pernik,population,DE1001V,81819.0,2024,urb_cpop1
+DE,DE108C,Remscheid,population,DE1001V,114061.0,2024,urb_cpop1
+DE,DE109C,Offenbach am Main,population,DE1001V,131845.0,2024,urb_cpop1
+DE,DE110C,Ulm,population,DE1001V,128998.0,2024,urb_cpop1
+DE,DE111C,Pforzheim,population,DE1001V,135087.0,2024,urb_cpop1
+DE,DE112C,Ingolstadt,population,DE1001V,139536.0,2024,urb_cpop1
+DE,DE054C,Gießen,population,DE1001V,88933.0,2024,urb_cpop1
+DE,DE055C,Lüneburg,population,DE1001V,74577.0,2024,urb_cpop1
+DE,DE036C,Kiel,population,DE1001V,251751.0,2024,urb_cpop1
+DE,DE100C,Heidelberg,population,DE1001V,155175.0,2024,urb_cpop1
+DE,DE101C,Paderborn,population,DE1001V,156887.0,2024,urb_cpop1
+DE,DE102C,Würzburg,population,DE1001V,131759.0,2024,urb_cpop1
+DE,DE103C,Recklinghausen,population,DE1001V,115396.0,2024,urb_cpop1
+DE,DE104C,Wolfsburg,population,DE1001V,129347.0,2024,urb_cpop1
+DE,DE042C,Iserlohn,population,DE1001V,91884.0,2024,urb_cpop1
+DE,DE043C,Esslingen am Neckar (greater city),population,DE1001V,147215.0,2024,urb_cpop1
+DE,DE107C,Heilbronn,population,DE1001V,131653.0,2024,urb_cpop1
+DE,DE012C,Bremen,population,DE1001V,584332.0,2024,urb_cpop1
+DE,DE013C,Hannover,population,DE1001V,520290.0,2024,urb_cpop1
+DE,DE014C,Nürnberg,population,DE1001V,526606.0,2024,urb_cpop1
+DE,DE015C,Bochum,population,DE1001V,357024.0,2024,urb_cpop1
+DE,DE016C,Bielefeld,population,DE1001V,331519.0,2024,urb_cpop1
+DE,DE113C,Gera,population,DE1001V,95695.0,2024,urb_cpop1
+DE,DE115C,Reutlingen,population,DE1001V,118770.0,2024,urb_cpop1
+DE,DE099C,Neuss,population,DE1001V,154712.0,2024,urb_cpop1
+DE,DE004C,Köln,population,DE1001V,1024408.0,2024,urb_cpop1
+DE,DE005C,Frankfurt am Main,population,DE1001V,749596.0,2024,urb_cpop1
+DE,DE006C,Essen,population,DE1001V,574082.0,2024,urb_cpop1
+DE,DE007C,Stuttgart,population,DE1001V,613111.0,2024,urb_cpop1
+DE,DE008C,Leipzig,population,DE1001V,608013.0,2024,urb_cpop1
+DE,DE025C,Freiburg im Breisgau,population,DE1001V,236236.0,2024,urb_cpop1
+DE,DE026C,Regensburg,population,DE1001V,149664.0,2024,urb_cpop1
+DE,DE011C,Düsseldorf,population,DE1001V,616319.0,2024,urb_cpop1
+DE,DE142C,Hattingen,population,DE1001V,53007.0,2024,urb_cpop1
+DE,DE143C,Lüdenscheid,population,DE1001V,71474.0,2024,urb_cpop1
+DE,DE144C,Lünen,population,DE1001V,85919.0,2024,urb_cpop1
+DE,DE145C,Unna,population,DE1001V,59974.0,2024,urb_cpop1
+DE,DE146C,Rüsselsheim am Main (greater city),population,DE1001V,102240.0,2024,urb_cpop1
+DE,DE097C,Leverkusen,population,DE1001V,167850.0,2024,urb_cpop1
+DE,DE098C,Oldenburg (Oldenburg),population,DE1001V,176242.0,2024,urb_cpop1
+DE,DE083C,Münster,population,DE1001V,307071.0,2024,urb_cpop1
+DE,DE134C,Dinslaken,population,DE1001V,67200.0,2024,urb_cpop1
+DE,DE135C,Herzogenrath,population,DE1001V,48139.0,2024,urb_cpop1
+DE,DE136C,Troisdorf (greater city),population,DE1001V,118102.0,2024,urb_cpop1
+DE,DE137C,Castrop-Rauxel,population,DE1001V,73747.0,2024,urb_cpop1
+DE,DE138C,Gladbeck,population,DE1001V,75587.0,2024,urb_cpop1
+DE,DE089C,Lübeck,population,DE1001V,217061.0,2024,urb_cpop1
+DE,DE090C,Hagen,population,DE1001V,190640.0,2024,urb_cpop1
+DE,DE141C,Gütersloh,population,DE1001V,99793.0,2024,urb_cpop1
+DE,DE046C,Ludwigsburg (greater city),population,DE1001V,117175.0,2024,urb_cpop1
+DE,DE047C,Tübingen,population,DE1001V,91763.0,2024,urb_cpop1
+DE,DE049C,Flensburg,population,DE1001V,96431.0,2024,urb_cpop1
+DE,DE051C,Konstanz,population,DE1001V,86898.0,2024,urb_cpop1
+DE,DE052C,Neumünster,population,DE1001V,79461.0,2024,urb_cpop1
+DE,DE147C,Oberursel (greater city),population,DE1001V,57274.0,2024,urb_cpop1
+DE,DE148C,Böblingen,population,DE1001V,51405.0,2024,urb_cpop1
+DE,DE133C,Ratingen,population,DE1001V,88708.0,2024,urb_cpop1
+DE,DE037C,Saarbrücken,population,DE1001V,181982.0,2024,urb_cpop1
+DE,DE038C,Potsdam,population,DE1001V,184290.0,2024,urb_cpop1
+DE,DE039C,Koblenz,population,DE1001V,113346.0,2024,urb_cpop1
+DE,DE040C,Rostock,population,DE1001V,204948.0,2024,urb_cpop1
+DE,DE041C,Kaiserslautern,population,DE1001V,100571.0,2024,urb_cpop1
+DE,DE065C,Sindelfingen,population,DE1001V,61296.0,2024,urb_cpop1
+DE,DE066C,Rosenheim,population,DE1001V,64453.0,2024,urb_cpop1
+DE,DE044C,Hanau,population,DE1001V,96786.0,2024,urb_cpop1
+ES,ES020C,Córdoba,population,DE1001V,324902.0,2024,urb_cpop1
+ES,ES021C,Alicante/Alacant (greater city),population,DE1001V,503432.0,2024,urb_cpop1
+ES,ES022C,Vigo,population,DE1001V,295523.0,2024,urb_cpop1
+ES,ES023C,Gijón,population,DE1001V,270219.0,2024,urb_cpop1
+ES,ES024C,Santa Cruz de Tenerife (greater city),population,DE1001V,371341.0,2024,urb_cpop1
+DE,DE131C,Hilden,population,DE1001V,55057.0,2024,urb_cpop1
+DE,DE132C,Langenfeld (Rheinland),population,DE1001V,59886.0,2024,urb_cpop1
+DE,DE116C,Fürth,population,DE1001V,131712.0,2024,urb_cpop1
+ES,ES012C,Vitoria-Gasteiz,population,DE1001V,257407.0,2024,urb_cpop1
+ES,ES013C,Oviedo,population,DE1001V,220027.0,2024,urb_cpop1
+ES,ES014C,Pamplona/Iruña (greater city),population,DE1001V,343690.0,2024,urb_cpop1
+ES,ES015C,Santander,population,DE1001V,173635.0,2024,urb_cpop1
+ES,ES016C,Toledo,population,DE1001V,86281.0,2024,urb_cpop1
+DE,DE123C,Erlangen,population,DE1001V,115314.0,2024,urb_cpop1
+DE,DE124C,Wuppertal,population,DE1001V,358592.0,2024,urb_cpop1
+ES,ES019C,Bilbao (greater city),population,DE1001V,782473.0,2024,urb_cpop1
+DE,DE092C,Hamm,population,DE1001V,179380.0,2024,urb_cpop1
+DE,DE093C,Herne,population,DE1001V,156154.0,2024,urb_cpop1
+DE,DE094C,Solingen,population,DE1001V,166078.0,2024,urb_cpop1
+DE,DE095C,Osnabrück,population,DE1001V,165686.0,2024,urb_cpop1
+DE,DE096C,Ludwigshafen am Rhein,population,DE1001V,175816.0,2024,urb_cpop1
+ES,ES025C,A Coruña (greater city),population,DE1001V,305086.0,2024,urb_cpop1
+ES,ES026C,Reus,population,DE1001V,109961.0,2024,urb_cpop1
+ES,ES011C,Santiago de Compostela,population,DE1001V,99491.0,2024,urb_cpop1
+DE,DE084C,Chemnitz,population,DE1001V,245150.0,2024,urb_cpop1
+DE,DE085C,Braunschweig,population,DE1001V,253527.0,2024,urb_cpop1
+DE,DE086C,Aachen,population,DE1001V,263772.0,2024,urb_cpop1
+DE,DE087C,Krefeld,population,DE1001V,230393.0,2024,urb_cpop1
+DE,DE088C,Oberhausen,population,DE1001V,213510.0,2024,urb_cpop1
+DE,DE105C,Bremerhaven,population,DE1001V,118323.0,2024,urb_cpop1
+DE,DE106C,Bottrop,population,DE1001V,118912.0,2024,urb_cpop1
+DE,DE091C,Kassel,population,DE1001V,197065.0,2024,urb_cpop1
+ES,ES052C,Torremolinos (greater city),population,DE1001V,148931.0,2024,urb_cpop1
+ES,ES053C,Irun (greater city),population,DE1001V,80232.0,2024,urb_cpop1
+ES,ES054C,Granollers (greater city),population,DE1001V,101828.0,2024,urb_cpop1
+ES,ES055C,Arrecife,population,DE1001V,68025.0,2024,urb_cpop1
+ES,ES056C,Elda (greater city),population,DE1001V,88014.0,2024,urb_cpop1
+ES,ES009C,Valladolid (greater city),population,DE1001V,322066.0,2024,urb_cpop1
+ES,ES010C,Palma de Mallorca,population,DE1001V,438234.0,2024,urb_cpop1
+DE,DE149C,Göppingen (greater city),population,DE1001V,99458.0,2024,urb_cpop1
+ES,ES044C,Benidorm,population,DE1001V,74573.0,2024,urb_cpop1
+ES,ES045C,Melilla,population,DE1001V,85985.0,2024,urb_cpop1
+ES,ES046C,Ponferrada,population,DE1001V,62957.0,2024,urb_cpop1
+ES,ES047C,Zamora,population,DE1001V,59553.0,2024,urb_cpop1
+ES,ES048C,Fuengirola,population,DE1001V,85646.0,2024,urb_cpop1
+ES,ES001C,Madrid (greater city),population,DE1001V,4501429.0,2024,urb_cpop1
+ES,ES002C,Barcelona (greater city),population,DE1001V,2658830.0,2024,urb_cpop1
+ES,ES051C,"Línea de la Concepción, La",population,DE1001V,64987.0,2024,urb_cpop1
+DE,DE126C,Düren,population,DE1001V,94354.0,2024,urb_cpop1
+DE,DE127C,Bocholt,population,DE1001V,72893.0,2024,urb_cpop1
+DE,DE128C,Elmshorn,population,DE1001V,51486.0,2024,urb_cpop1
+DE,DE129C,Norderstedt,population,DE1001V,81834.0,2024,urb_cpop1
+DE,DE130C,Delmenhorst,population,DE1001V,81746.0,2024,urb_cpop1
+ES,ES057C,Santa Lucía de Tirajana,population,DE1001V,78048.0,2024,urb_cpop1
+ES,ES058C,Mollet del Vallès (greater city),population,DE1001V,85104.0,2024,urb_cpop1
+ES,ES043C,Ciudad Real,population,DE1001V,75674.0,2024,urb_cpop1
+DE,DE117C,Cottbus,population,DE1001V,94778.0,2024,urb_cpop1
+DE,DE118C,Siegen,population,DE1001V,102440.0,2024,urb_cpop1
+DE,DE119C,Bergisch Gladbach,population,DE1001V,111003.0,2024,urb_cpop1
+DE,DE120C,Hildesheim,population,DE1001V,98299.0,2024,urb_cpop1
+DE,DE121C,Witten,population,DE1001V,92037.0,2024,urb_cpop1
+DE,DE139C,Herten,population,DE1001V,61126.0,2024,urb_cpop1
+DE,DE140C,Marl,population,DE1001V,86686.0,2024,urb_cpop1
+DE,DE125C,Jena,population,DE1001V,110076.0,2024,urb_cpop1
+ES,ES087C,Collado Villalba,population,DE1001V,67323.0,2024,urb_cpop1
+ES,ES089C,Eivissa,population,DE1001V,53228.0,2024,urb_cpop1
+ES,ES090C,Linares,population,DE1001V,55303.0,2024,urb_cpop1
+ES,ES091C,Lorca,population,DE1001V,97769.0,2024,urb_cpop1
+ES,ES092C,Mérida,population,DE1001V,59894.0,2024,urb_cpop1
+ES,ES041C,Guadalajara,population,DE1001V,90878.0,2024,urb_cpop1
+ES,ES042C,Manresa (greater city),population,DE1001V,90709.0,2024,urb_cpop1
+ES,ES027C,Telde,population,DE1001V,103587.0,2024,urb_cpop1
+ES,ES076C,Ourense (greater city),population,DE1001V,115888.0,2024,urb_cpop1
+ES,ES077C,Mataró,population,DE1001V,130887.0,2024,urb_cpop1
+ES,ES078C,Dos Hermanas,population,DE1001V,140463.0,2024,urb_cpop1
+ES,ES079C,Algeciras,population,DE1001V,125047.0,2024,urb_cpop1
+ES,ES081C,Torrejón de Ardoz,population,DE1001V,141047.0,2024,urb_cpop1
+ES,ES033C,"Puerto de Santa María, El",population,DE1001V,90423.0,2024,urb_cpop1
+ES,ES034C,Avilés (greater city),population,DE1001V,91293.0,2024,urb_cpop1
+ES,ES086C,Chiclana de la Frontera,population,DE1001V,89805.0,2024,urb_cpop1
+ES,ES004C,Sevilla,population,DE1001V,686741.0,2024,urb_cpop1
+ES,ES005C,Zaragoza,population,DE1001V,691037.0,2024,urb_cpop1
+ES,ES006C,Málaga,population,DE1001V,592346.0,2024,urb_cpop1
+ES,ES007C,Murcia,population,DE1001V,471982.0,2024,urb_cpop1
+ES,ES008C,"Palmas de Gran Canaria, Las",population,DE1001V,383516.0,2024,urb_cpop1
+ES,ES093C,Sagunto (greater city),population,DE1001V,79465.0,2024,urb_cpop1
+ES,ES095C,Valdemoro,population,DE1001V,83582.0,2024,urb_cpop1
+ES,ES075C,Lleida,population,DE1001V,144878.0,2024,urb_cpop1
+DE,DE150C,Waiblingen (greater city),population,DE1001V,131760.0,2024,urb_cpop1
+DE,DE151C,Lörrach (greater city),population,DE1001V,82514.0,2024,urb_cpop1
+EE,EE001C,Tallinn,population,DE1001V,457572.0,2024,urb_cpop1
+EE,EE002C,Tartu,population,DE1001V,101032.0,2024,urb_cpop1
+EE,EE003C,Narva,population,DE1001V,53360.0,2024,urb_cpop1
+ES,ES017C,Badajoz,population,DE1001V,151146.0,2024,urb_cpop1
+ES,ES018C,Logroño,population,DE1001V,150845.0,2024,urb_cpop1
+ES,ES003C,Valencia (greater city),population,DE1001V,1474632.0,2024,urb_cpop1
+HR,HR005C,Split (greater city),population,DE1001V,180568.0,2024,urb_cpop1
+HR,HR007C,Zadar,population,DE1001V,69487.0,2024,urb_cpop1
+IT,IT,Italy,population,DE1001V,58971230.0,2024,urb_cpop1
+IT,IT001C,Roma,population,DE1001V,2751747.0,2024,urb_cpop1
+IT,IT002C,Milano (greater city),population,DE1001V,3564724.0,2024,urb_cpop1
+ES,ES073C,Tarragona (greater city),population,DE1001V,146954.0,2024,urb_cpop1
+ES,ES074C,Jaén,population,DE1001V,111945.0,2024,urb_cpop1
+ES,ES059C,Granada (greater city),population,DE1001V,333545.0,2024,urb_cpop1
+ES,ES114C,Sant Cugat del Vallès (greater city),population,DE1001V,180172.0,2024,urb_cpop1
+ES,ES115C,Premià de Mar (greater city),population,DE1001V,77734.0,2024,urb_cpop1
+ES,ES116C,Sabadell (greater city),population,DE1001V,422784.0,2024,urb_cpop1
+ES,ES117C,Terrassa,population,DE1001V,228294.0,2024,urb_cpop1
+ES,ES118C,Huesca,population,DE1001V,54664.0,2024,urb_cpop1
+ES,ES065C,Almería (greater city),population,DE1001V,226978.0,2024,urb_cpop1
+ES,ES066C,Burgos,population,DE1001V,176551.0,2024,urb_cpop1
+HR,HR004C,Osijek,population,DE1001V,92966.0,2024,urb_cpop1
+ES,ES036C,Palencia,population,DE1001V,76578.0,2024,urb_cpop1
+ES,ES037C,Ferrol (greater city),population,DE1001V,103678.0,2024,urb_cpop1
+ES,ES038C,Pontevedra,population,DE1001V,83106.0,2024,urb_cpop1
+ES,ES039C,Ceuta,population,DE1001V,83179.0,2024,urb_cpop1
+ES,ES040C,Gandia (greater city),population,DE1001V,86903.0,2024,urb_cpop1
+IT,IT003C,Napoli (greater city),population,DE1001V,2983149.0,2024,urb_cpop1
+IT,IT004C,Torino,population,DE1001V,851199.0,2024,urb_cpop1
+ES,ES113C,Sant Boi de Llobregat,population,DE1001V,84588.0,2024,urb_cpop1
+ES,ES028C,Lugo,population,DE1001V,99365.0,2024,urb_cpop1
+ES,ES029C,San Fernando,population,DE1001V,93793.0,2024,urb_cpop1
+ES,ES030C,Girona (greater city),population,DE1001V,149572.0,2024,urb_cpop1
+ES,ES031C,Cáceres,population,DE1001V,96448.0,2024,urb_cpop1
+ES,ES032C,Torrevieja,population,DE1001V,95760.0,2024,urb_cpop1
+ES,ES049C,Sanlúcar de Barrameda,population,DE1001V,69887.0,2024,urb_cpop1
+ES,ES050C,Vilanova i la Geltrú,population,DE1001V,70293.0,2024,urb_cpop1
+ES,ES035C,Talavera de la Reina,population,DE1001V,85138.0,2024,urb_cpop1
+IT,IT030C,Foggia,population,DE1001V,145652.0,2024,urb_cpop1
+IT,IT031C,Salerno,population,DE1001V,126715.0,2024,urb_cpop1
+IT,IT032C,Piacenza,population,DE1001V,102887.0,2024,urb_cpop1
+IT,IT033C,Bolzano,population,DE1001V,106357.0,2024,urb_cpop1
+IT,IT034C,Udine,population,DE1001V,98304.0,2024,urb_cpop1
+ES,ES111C,Viladecans (greater city),population,DE1001V,115140.0,2024,urb_cpop1
+ES,ES112C,"Prat de Llobregat, El",population,DE1001V,65910.0,2024,urb_cpop1
+ES,ES096C,Puerto de la Cruz (greater city),population,DE1001V,69714.0,2024,urb_cpop1
+IT,IT022C,Potenza,population,DE1001V,64070.0,2024,urb_cpop1
+IT,IT023C,Catanzaro,population,DE1001V,84109.0,2024,urb_cpop1
+IT,IT024C,Reggio di Calabria,population,DE1001V,169679.0,2024,urb_cpop1
+IT,IT025C,Sassari,population,DE1001V,121085.0,2024,urb_cpop1
+IT,IT026C,Cagliari (greater city),population,DE1001V,215920.0,2024,urb_cpop1
+ES,ES103C,Parla,population,DE1001V,134876.0,2024,urb_cpop1
+ES,ES104C,Pinto,population,DE1001V,55989.0,2024,urb_cpop1
+IT,IT029C,Modena,population,DE1001V,184597.0,2024,urb_cpop1
+ES,ES068C,Albacete,population,DE1001V,174073.0,2024,urb_cpop1
+ES,ES069C,Castellón de la Plana/Castelló de la Plana,population,DE1001V,179861.0,2024,urb_cpop1
+ES,ES070C,Huelva,population,DE1001V,143526.0,2024,urb_cpop1
+ES,ES071C,Cádiz,population,DE1001V,111180.0,2024,urb_cpop1
+ES,ES072C,León (greater city),population,DE1001V,152789.0,2024,urb_cpop1
+IT,IT035C,La Spezia,population,DE1001V,92696.0,2024,urb_cpop1
+IT,IT036C,Lecce,population,DE1001V,94250.0,2024,urb_cpop1
+IT,IT021C,Taranto,population,DE1001V,187025.0,2024,urb_cpop1
+ES,ES060C,Elche/Elx,population,DE1001V,242317.0,2024,urb_cpop1
+ES,ES061C,Cartagena,population,DE1001V,219235.0,2024,urb_cpop1
+ES,ES062C,Jerez de la Frontera,population,DE1001V,214844.0,2024,urb_cpop1
+ES,ES063C,San Sebastián/Donostia (greater city),population,DE1001V,250056.0,2024,urb_cpop1
+ES,ES064C,Alcalá de Henares,population,DE1001V,199804.0,2024,urb_cpop1
+ES,ES082C,Alcalá de Guadaíra,population,DE1001V,77112.0,2024,urb_cpop1
+ES,ES083C,Alcoy/Alcoi,population,DE1001V,60447.0,2024,urb_cpop1
+ES,ES067C,Salamanca (greater city),population,DE1001V,166803.0,2024,urb_cpop1
+IT,IT063C,Sassuolo,population,DE1001V,40996.0,2024,urb_cpop1
+IT,IT064C,Messina,population,DE1001V,217959.0,2024,urb_cpop1
+IT,IT065C,Prato,population,DE1001V,197088.0,2024,urb_cpop1
+IT,IT066C,Parma,population,DE1001V,198121.0,2024,urb_cpop1
+IT,IT067C,Livorno,population,DE1001V,153418.0,2024,urb_cpop1
+IT,IT019C,Campobasso,population,DE1001V,47418.0,2024,urb_cpop1
+IT,IT020C,Caserta  (greater city),population,DE1001V,194522.0,2024,urb_cpop1
+IT,IT005C,Palermo,population,DE1001V,630427.0,2024,urb_cpop1
+IT,IT055C,Molfetta,population,DE1001V,57305.0,2024,urb_cpop1
+IT,IT056C,Battipaglia,population,DE1001V,49496.0,2024,urb_cpop1
+IT,IT057C,Bisceglie,population,DE1001V,53536.0,2024,urb_cpop1
+IT,IT058C,Carpi,population,DE1001V,72523.0,2024,urb_cpop1
+IT,IT059C,Cerignola,population,DE1001V,57066.0,2024,urb_cpop1
+IT,IT011C,Venezia,population,DE1001V,250290.0,2024,urb_cpop1
+IT,IT012C,Verona,population,DE1001V,255298.0,2024,urb_cpop1
+IT,IT062C,Anzio (greater city),population,DE1001V,107870.0,2024,urb_cpop1
+ES,ES106C,Fuenlabrada,population,DE1001V,190496.0,2024,urb_cpop1
+ES,ES107C,Rivas-Vaciamadrid,population,DE1001V,101637.0,2024,urb_cpop1
+ES,ES108C,Coslada (greater city),population,DE1001V,119657.0,2024,urb_cpop1
+ES,ES109C,Las Rozas de Madrid (greater city),population,DE1001V,172740.0,2024,urb_cpop1
+ES,ES110C,Castelldefels,population,DE1001V,69196.0,2024,urb_cpop1
+IT,IT068C,Reggio nell'Emilia,population,DE1001V,171207.0,2024,urb_cpop1
+IT,IT069C,Ravenna,population,DE1001V,156304.0,2024,urb_cpop1
+IT,IT054C,Bitonto,population,DE1001V,53103.0,2024,urb_cpop1
+ES,ES097C,Igualada (greater city),population,DE1001V,65127.0,2024,urb_cpop1
+ES,ES099C,Vícar,population,DE1001V,28505.0,2024,urb_cpop1
+ES,ES100C,Armilla (greater city),population,DE1001V,65548.0,2024,urb_cpop1
+ES,ES101C,Mairena del Aljarafe (greater city),population,DE1001V,198834.0,2024,urb_cpop1
+ES,ES102C,Aranjuez,population,DE1001V,62508.0,2024,urb_cpop1
+HR,HR001C,Zagreb,population,DE1001V,760020.0,2024,urb_cpop1
+HR,HR002C,Rijeka,population,DE1001V,102415.0,2024,urb_cpop1
+ES,ES105C,Arganda del Rey,population,DE1001V,59209.0,2024,urb_cpop1
+LT,LT001C,Vilnius,population,DE1001V,602408.0,2024,urb_cpop1
+LT,LT002C,Kaunas,population,DE1001V,304177.0,2024,urb_cpop1
+LT,LT003C,Panevėžys,population,DE1001V,86595.0,2024,urb_cpop1
+LT,LT004C,Alytus,population,DE1001V,51340.0,2024,urb_cpop1
+LT,LT005C,Klaipėda,population,DE1001V,159279.0,2024,urb_cpop1
+IT,IT052C,Lecco,population,DE1001V,47125.0,2024,urb_cpop1
+IT,IT053C,Altamura,population,DE1001V,70093.0,2024,urb_cpop1
+IT,IT037C,Barletta,population,DE1001V,92365.0,2024,urb_cpop1
+IT,IT087C,L'Aquila,population,DE1001V,69717.0,2024,urb_cpop1
+IT,IT088C,Vigevano,population,DE1001V,62515.0,2024,urb_cpop1
+IT,IT089C,Guidonia Montecelio (greater city),population,DE1001V,121711.0,2024,urb_cpop1
+IT,IT090C,Tivoli,population,DE1001V,55061.0,2024,urb_cpop1
+LV,LV,Latvia,population,DE1001V,1878575.0,2024,urb_cpop1
+IT,IT043C,Asti,population,DE1001V,73401.0,2024,urb_cpop1
+IT,IT044C,Pavia,population,DE1001V,71297.0,2024,urb_cpop1
+LV,LV004C,Daugavpils,population,DE1001V,78942.0,2024,urb_cpop1
+IT,IT014C,Trento,population,DE1001V,118504.0,2024,urb_cpop1
+IT,IT015C,Trieste,population,DE1001V,198843.0,2024,urb_cpop1
+IT,IT016C,Perugia,population,DE1001V,162099.0,2024,urb_cpop1
+IT,IT017C,Ancona,population,DE1001V,99377.0,2024,urb_cpop1
+IT,IT018C,Pescara (greater city),population,DE1001V,197497.0,2024,urb_cpop1
+LT,LT006C,Šiauliai,population,DE1001V,110331.0,2024,urb_cpop1
+HU,HU001C,Budapest (greater city),population,DE1001V,1686222.0,2024,urb_cpop1
+IT,IT086C,Trani,population,DE1001V,54948.0,2024,urb_cpop1
+IT,IT006C,Genova,population,DE1001V,562422.0,2024,urb_cpop1
+IT,IT007C,Firenze,population,DE1001V,362613.0,2024,urb_cpop1
+IT,IT008C,Bari,population,DE1001V,316226.0,2024,urb_cpop1
+IT,IT009C,Bologna,population,DE1001V,390098.0,2024,urb_cpop1
+IT,IT010C,Catania (greater city),population,DE1001V,441994.0,2024,urb_cpop1
+IT,IT027C,Padova,population,DE1001V,207502.0,2024,urb_cpop1
+IT,IT028C,Brescia,population,DE1001V,198259.0,2024,urb_cpop1
+IT,IT013C,Cremona,population,DE1001V,70675.0,2024,urb_cpop1
+NL,NL013C,Ede,population,DE1001V,166111.0,2024,urb_cpop1
+NL,NL014C,Eindhoven (greater city),population,DE1001V,293244.0,2024,urb_cpop1
+NL,NL015C,Enschede,population,DE1001V,161738.0,2024,urb_cpop1
+NL,NL016C,Gouda,population,DE1001V,75758.0,2024,urb_cpop1
+NL,NL017C,'s-Gravenhage (greater city),population,DE1001V,813669.0,2024,urb_cpop1
+IT,IT084C,Ragusa,population,DE1001V,73736.0,2024,urb_cpop1
+IT,IT085C,Andria,population,DE1001V,96941.0,2024,urb_cpop1
+IT,IT070C,Ferrara,population,DE1001V,129391.0,2024,urb_cpop1
+NL,NL005C,Alphen aan den Rijn,population,DE1001V,114966.0,2024,urb_cpop1
+NL,NL006C,Amersfoort,population,DE1001V,161852.0,2024,urb_cpop1
+NL,NL007C,Apeldoorn,population,DE1001V,168211.0,2024,urb_cpop1
+NL,NL008C,Arnhem,population,DE1001V,182783.0,2024,urb_cpop1
+NL,NL009C,Assen,population,DE1001V,69701.0,2024,urb_cpop1
+IT,IT076C,Vicenza,population,DE1001V,110299.0,2024,urb_cpop1
+IT,IT077C,Terni,population,DE1001V,106436.0,2024,urb_cpop1
+NL,NL012C,Deventer,population,DE1001V,103405.0,2024,urb_cpop1
+IT,IT047C,Savona,population,DE1001V,58674.0,2024,urb_cpop1
+IT,IT048C,Matera,population,DE1001V,59652.0,2024,urb_cpop1
+IT,IT049C,Acireale (greater city),population,DE1001V,96324.0,2024,urb_cpop1
+IT,IT050C,Avellino,population,DE1001V,52121.0,2024,urb_cpop1
+IT,IT051C,Pordenone,population,DE1001V,52147.0,2024,urb_cpop1
+NL,NL018C,Groningen,population,DE1001V,243768.0,2024,urb_cpop1
+NL,NL019C,Haarlem (greater city),population,DE1001V,288256.0,2024,urb_cpop1
+NL,NL004C,Almere,population,DE1001V,226500.0,2024,urb_cpop1
+IT,IT038C,Pesaro,population,DE1001V,95392.0,2024,urb_cpop1
+IT,IT039C,Como,population,DE1001V,83586.0,2024,urb_cpop1
+IT,IT040C,Pisa,population,DE1001V,89117.0,2024,urb_cpop1
+IT,IT041C,Treviso,population,DE1001V,85322.0,2024,urb_cpop1
+IT,IT042C,Varese,population,DE1001V,78818.0,2024,urb_cpop1
+IT,IT060C,Gela,population,DE1001V,70856.0,2024,urb_cpop1
+IT,IT061C,Bagheria,population,DE1001V,53010.0,2024,urb_cpop1
+IT,IT046C,Cosenza (greater city),population,DE1001V,100363.0,2024,urb_cpop1
+NL,NL045C,Zaanstad (greater city),population,DE1001V,161389.0,2024,urb_cpop1
+NL,NL046C,Zoetermeer,population,DE1001V,128434.0,2024,urb_cpop1
+NL,NL047C,Zwolle,population,DE1001V,133141.0,2024,urb_cpop1
+PL,PL,Poland,population,DE1001V,37489087.0,2024,urb_cpop1
+PL,PL001C,Warszawa,population,DE1001V,1863845.0,2024,urb_cpop1
+NL,NL002C,Alkmaar (greater city),population,DE1001V,226692.0,2024,urb_cpop1
+NL,NL003C,Almelo,population,DE1001V,74317.0,2024,urb_cpop1
+HU,HU002C,Miskolc,population,DE1001V,143502.0,2024,urb_cpop1
+NL,NL037C,Rotterdam (greater city),population,DE1001V,1274944.0,2024,urb_cpop1
+NL,NL038C,Roosendaal,population,DE1001V,77559.0,2024,urb_cpop1
+NL,NL039C,Sittard-Geleen (greater city),population,DE1001V,117394.0,2024,urb_cpop1
+NL,NL040C,Soest (greater city),population,DE1001V,72747.0,2024,urb_cpop1
+NL,NL041C,Tilburg (greater city),population,DE1001V,229836.0,2024,urb_cpop1
+HU,HU008C,Kecskemét,population,DE1001V,109450.0,2024,urb_cpop1
+HU,HU009C,Székesfehérvár,population,DE1001V,96024.0,2024,urb_cpop1
+NL,NL044C,Venlo,population,DE1001V,103789.0,2024,urb_cpop1
+IT,IT079C,Alessandria,population,DE1001V,91854.0,2024,urb_cpop1
+IT,IT080C,Arezzo,population,DE1001V,96330.0,2024,urb_cpop1
+IT,IT081C,Grosseto,population,DE1001V,81482.0,2024,urb_cpop1
+IT,IT082C,Brindisi,population,DE1001V,82298.0,2024,urb_cpop1
+IT,IT083C,Trapani,population,DE1001V,55229.0,2024,urb_cpop1
+PL,PL002C,Łódź,population,DE1001V,645693.0,2024,urb_cpop1
+PL,PL003C,Kraków,population,DE1001V,809168.0,2024,urb_cpop1
+NL,NL036C,Purmerend,population,DE1001V,95168.0,2024,urb_cpop1
+IT,IT071C,Rimini,population,DE1001V,150046.0,2024,urb_cpop1
+IT,IT072C,Siracusa,population,DE1001V,116247.0,2024,urb_cpop1
+IT,IT073C,Bergamo (greater city),population,DE1001V,252689.0,2024,urb_cpop1
+IT,IT074C,Forlì,population,DE1001V,117050.0,2024,urb_cpop1
+IT,IT075C,Latina,population,DE1001V,127859.0,2024,urb_cpop1
+LV,LV001C,Rīga,population,DE1001V,601882.0,2024,urb_cpop1
+LV,LV002C,Liepāja,population,DE1001V,68106.0,2024,urb_cpop1
+IT,IT078C,Novara,population,DE1001V,102187.0,2024,urb_cpop1
+PL,PL030C,Jastrzębie-Zdrój,population,DE1001V,81338.0,2024,urb_cpop1
+PL,PL031C,Siedlce,population,DE1001V,74780.0,2024,urb_cpop1
+PL,PL032C,Piotrków Trybunalski,population,DE1001V,66022.0,2024,urb_cpop1
+PL,PL033C,Lubin,population,DE1001V,66864.0,2024,urb_cpop1
+PL,PL034C,Piła,population,DE1001V,69383.0,2024,urb_cpop1
+NL,NL034C,Nissewaard (greater city),population,DE1001V,114067.0,2024,urb_cpop1
+NL,NL035C,Oss,population,DE1001V,94634.0,2024,urb_cpop1
+NL,NL020C,Haarlemmermeer,population,DE1001V,163128.0,2024,urb_cpop1
+PL,PL021C,Suwałki,population,DE1001V,68143.0,2024,urb_cpop1
+PL,PL022C,Konin,population,DE1001V,66103.0,2024,urb_cpop1
+PL,PL024C,Częstochowa,population,DE1001V,203615.0,2024,urb_cpop1
+PL,PL025C,Radom,population,DE1001V,193777.0,2024,urb_cpop1
+PL,PL026C,Płock,population,DE1001V,110015.0,2024,urb_cpop1
+NL,NL026C,Hilversum,population,DE1001V,94435.0,2024,urb_cpop1
+NL,NL027C,Hoorn,population,DE1001V,75645.0,2024,urb_cpop1
+PL,PL029C,Słupsk,population,DE1001V,84767.0,2024,urb_cpop1
+HU,HU012C,Tatabánya,population,DE1001V,65861.0,2024,urb_cpop1
+HU,HU019C,Sopron,population,DE1001V,61589.0,2024,urb_cpop1
+MT,MT001C,Greater Valletta,population,DE1001V,466066.0,2024,urb_cpop1
+NL,NL,Netherlands,population,DE1001V,17942942.0,2024,urb_cpop1
+NL,NL001C,Amsterdam (greater city),population,DE1001V,1073736.0,2024,urb_cpop1
+PL,PL035C,Inowrocław,population,DE1001V,66543.0,2024,urb_cpop1
+PL,PL037C,Gniezno,population,DE1001V,62820.0,2024,urb_cpop1
+PL,PL020C,Nowy Sącz,population,DE1001V,79821.0,2024,urb_cpop1
+HU,HU003C,Nyíregyháza,population,DE1001V,115359.0,2024,urb_cpop1
+HU,HU004C,Pécs,population,DE1001V,140330.0,2024,urb_cpop1
+HU,HU005C,Debrecen,population,DE1001V,201704.0,2024,urb_cpop1
+HU,HU006C,Szeged,population,DE1001V,157930.0,2024,urb_cpop1
+HU,HU007C,Gyõr,population,DE1001V,130191.0,2024,urb_cpop1
+NL,NL010C,Bergen op Zoom,population,DE1001V,69694.0,2024,urb_cpop1
+NL,NL011C,Breda,population,DE1001V,188078.0,2024,urb_cpop1
+HU,HU010C,Szombathely,population,DE1001V,77757.0,2024,urb_cpop1
+PL,PL069C,Będzin,population,DE1001V,53250.0,2024,urb_cpop1
+PL,PL070C,Dąbrowa Górnicza,population,DE1001V,112408.0,2024,urb_cpop1
+PL,PL071C,Legionowo,population,DE1001V,52247.0,2024,urb_cpop1
+PL,PL072C,Mysłowice,population,DE1001V,70741.0,2024,urb_cpop1
+PL,PL073C,Pruszków,population,DE1001V,65686.0,2024,urb_cpop1
+PL,PL018C,Zielona Góra,population,DE1001V,138869.0,2024,urb_cpop1
+PL,PL019C,Jelenia Góra,population,DE1001V,74194.0,2024,urb_cpop1
+PL,PL004C,Wrocław,population,DE1001V,672882.0,2024,urb_cpop1
+PL,PL061C,Tychy,population,DE1001V,121063.0,2024,urb_cpop1
+PL,PL062C,Wałbrzych,population,DE1001V,98748.0,2024,urb_cpop1
+PL,PL063C,Elbląg,population,DE1001V,112052.0,2024,urb_cpop1
+PL,PL064C,Włocławek,population,DE1001V,99474.0,2024,urb_cpop1
+PL,PL065C,Tarnów,population,DE1001V,102123.0,2024,urb_cpop1
+PL,PL010C,Katowice,population,DE1001V,278885.0,2024,urb_cpop1
+PL,PL011C,Białystok,population,DE1001V,290386.0,2024,urb_cpop1
+PL,PL068C,Grudziądz,population,DE1001V,87696.0,2024,urb_cpop1
+NL,NL029C,Leiden (greater city),population,DE1001V,276383.0,2024,urb_cpop1
+NL,NL030C,Lelystad,population,DE1001V,84080.0,2024,urb_cpop1
+NL,NL031C,Maastricht,population,DE1001V,125285.0,2024,urb_cpop1
+NL,NL032C,Middelburg       ,population,DE1001V,95393.0,2024,urb_cpop1
+NL,NL033C,Nijmegen,population,DE1001V,187049.0,2024,urb_cpop1
+PL,PL074C,Siemianowice Śląskie,population,DE1001V,62817.0,2024,urb_cpop1
+PL,PL075C,Świętochłowice,population,DE1001V,45021.0,2024,urb_cpop1
+PL,PL060C,Rybnik,population,DE1001V,129817.0,2024,urb_cpop1
+NL,NL021C,Heemskerk (greater city),population,DE1001V,95718.0,2024,urb_cpop1
+NL,NL022C,Heerlen (greater city),population,DE1001V,197654.0,2024,urb_cpop1
+NL,NL023C,Helmond,population,DE1001V,95874.0,2024,urb_cpop1
+NL,NL024C,Hengelo,population,DE1001V,83058.0,2024,urb_cpop1
+NL,NL025C,'s-Hertogenbosch,population,DE1001V,160757.0,2024,urb_cpop1
+NL,NL042C,Utrecht (greater city),population,DE1001V,473630.0,2024,urb_cpop1
+NL,NL043C,Veenendaal,population,DE1001V,69440.0,2024,urb_cpop1
+NL,NL028C,Leeuwarden,population,DE1001V,128810.0,2024,urb_cpop1
+FI,FI006C,Vantaa/Vanda,population,DE1001V,247443.0,2024,urb_cpop1
+FI,FI007C,Lahti/Lahtis,population,DE1001V,120693.0,2024,urb_cpop1
+FI,FI008C,Kuopio,population,DE1001V,124021.0,2024,urb_cpop1
+FI,FI009C,Jyväskylä,population,DE1001V,147746.0,2024,urb_cpop1
+SE,SE,Sweden,population,DE1001V,10551707.0,2024,urb_cpop1
+PL,PL058C,Bielsko-Biała,population,DE1001V,164318.0,2024,urb_cpop1
+PL,PL059C,Ruda Śląska,population,DE1001V,128793.0,2024,urb_cpop1
+PL,PL038C,Stargard,population,DE1001V,66077.0,2024,urb_cpop1
+SI,SI,Slovenia,population,DE1001V,2123949.0,2024,urb_cpop1
+SI,SI001C,Ljubljana,population,DE1001V,297575.0,2024,urb_cpop1
+SI,SI002C,Maribor,population,DE1001V,113747.0,2024,urb_cpop1
+FI,FI001C,Helsinki/Helsingfors,population,DE1001V,674500.0,2024,urb_cpop1
+FI,FI002C,Tampere/Tammerfors,population,DE1001V,255050.0,2024,urb_cpop1
+PL,PL047C,Łomża,population,DE1001V,59263.0,2024,urb_cpop1
+PL,PL051C,Tczew,population,DE1001V,56410.0,2024,urb_cpop1
+FI,FI005C,Espoo/Esbo,population,DE1001V,314024.0,2024,urb_cpop1
+PL,PL013C,Toruń,population,DE1001V,193717.0,2024,urb_cpop1
+PL,PL014C,Olsztyn,population,DE1001V,166392.0,2024,urb_cpop1
+PL,PL015C,Rzeszów,population,DE1001V,198317.0,2024,urb_cpop1
+PL,PL016C,Opole,population,DE1001V,125492.0,2024,urb_cpop1
+PL,PL017C,Gorzów Wielkopolski,population,DE1001V,114700.0,2024,urb_cpop1
+SE,SE001C,Stockholm (greater city),population,DE1001V,1613975.0,2024,urb_cpop1
+SE,SE002C,Göteborg (greater city),population,DE1001V,715881.0,2024,urb_cpop1
+PT,PT016C,Vila Franca de Xira (greater city),population,DE1001V,139452.0,2024,urb_cpop1
+PL,PL005C,Poznań,population,DE1001V,536151.0,2024,urb_cpop1
+PL,PL006C,Gdańsk,population,DE1001V,488651.0,2024,urb_cpop1
+PL,PL007C,Szczecin,population,DE1001V,386706.0,2024,urb_cpop1
+PL,PL008C,Bydgoszcz,population,DE1001V,324043.0,2024,urb_cpop1
+PL,PL009C,Lublin,population,DE1001V,328305.0,2024,urb_cpop1
+PL,PL027C,Kalisz,population,DE1001V,91963.0,2024,urb_cpop1
+PL,PL028C,Koszalin,population,DE1001V,105263.0,2024,urb_cpop1
+PL,PL012C,Kielce,population,DE1001V,180537.0,2024,urb_cpop1
+PT,PT014C,Sintra (greater city),population,DE1001V,395528.0,2024,urb_cpop1
+PT,PT015C,Guimarães (greater city),population,DE1001V,156789.0,2024,urb_cpop1
+PT,PT,Portugal,population,DE1001V,10639726.0,2024,urb_cpop1
+CH,CH006C,Lucerne (greater city),population,DE1001V,170849.0,2024,urb_cpop1
+CH,CH007C,Winterthur,population,DE1001V,119315.0,2024,urb_cpop1
+CH,CH008C,Lugano (greater city),population,DE1001V,90759.0,2024,urb_cpop1
+CH,CH009C,St. Gallen (greater city),population,DE1001V,78213.0,2024,urb_cpop1
+CH,CH010C,Biel/Bienne (greater city),population,DE1001V,75320.0,2024,urb_cpop1
+PT,PT006C,Setúbal (greater city),population,DE1001V,123548.0,2024,urb_cpop1
+PT,PT007C,Ponta Delgada (greater city),population,DE1001V,68758.0,2024,urb_cpop1
+PL,PL053C,Gdynia,population,DE1001V,240084.0,2024,urb_cpop1
+PL,PL054C,Sosnowiec,population,DE1001V,184988.0,2024,urb_cpop1
+PL,PL055C,Gliwice,population,DE1001V,168248.0,2024,urb_cpop1
+PL,PL056C,Zabrze,population,DE1001V,152461.0,2024,urb_cpop1
+PL,PL057C,Bytom,population,DE1001V,146290.0,2024,urb_cpop1
+CH,CH005C,Lausanne (greater city),population,DE1001V,264656.0,2024,urb_cpop1
+PL,PL039C,Ostrów Wielkopolski,population,DE1001V,68637.0,2024,urb_cpop1
+PL,PL041C,Zamość,population,DE1001V,57516.0,2024,urb_cpop1
+PL,PL042C,Chełm,population,DE1001V,56434.0,2024,urb_cpop1
+PL,PL043C,Pabianice,population,DE1001V,59910.0,2024,urb_cpop1
+PL,PL044C,Głogów,population,DE1001V,61206.0,2024,urb_cpop1
+PL,PL066C,Chorzów,population,DE1001V,99420.0,2024,urb_cpop1
+PL,PL067C,Legnica,population,DE1001V,90823.0,2024,urb_cpop1
+PL,PL052C,Ełk,population,DE1001V,59250.0,2024,urb_cpop1
+CH,CH003C,Geneva (greater city),population,DE1001V,431720.0,2024,urb_cpop1
+CH,CH004C,Basel (greater city),population,DE1001V,353198.0,2024,urb_cpop1
+SE,SE003C,Malmö,population,DE1001V,362133.0,2024,urb_cpop1
+SE,SE010C,Västerås,population,DE1001V,159661.0,2024,urb_cpop1
+SE,SE011C,Norrköping,population,DE1001V,145164.0,2024,urb_cpop1
+PT,PT009C,Faro (greater city),population,DE1001V,69468.0,2024,urb_cpop1
+PT,PT010C,Viseu (greater city),population,DE1001V,101977.0,2024,urb_cpop1
+PT,PT011C,Viana do Castelo (greater city),population,DE1001V,86780.0,2024,urb_cpop1
+PT,PT012C,Paredes (greater city),population,DE1001V,86015.0,2024,urb_cpop1
+PT,PT013C,Póvoa de Varzim (greater city),population,DE1001V,67525.0,2024,urb_cpop1
+PT,PT001C,Lisboa (greater city),population,DE1001V,1935831.0,2024,urb_cpop1
+PT,PT002C,Porto (greater city),population,DE1001V,1008298.0,2024,urb_cpop1
+PT,PT003C,Braga (greater city),population,DE1001V,201583.0,2024,urb_cpop1
+PT,PT004C,Funchal (greater city),population,DE1001V,107562.0,2024,urb_cpop1
+PT,PT005C,Coimbra (greater city),population,DE1001V,144822.0,2024,urb_cpop1
+FI,FI003C,Turku/Åbo,population,DE1001V,201863.0,2024,urb_cpop1
+FI,FI004C,Oulu/Uleåborg,population,DE1001V,214633.0,2024,urb_cpop1
+PT,PT008C,Aveiro (greater city),population,DE1001V,86037.0,2024,urb_cpop1
+SE,SE012C,Helsingborg,unemployment_rate,EC1020I,8.22,2024,urb_clma
+SE,SE013C,Lund,unemployment_rate,EC1020I,4.65,2024,urb_clma
+SE,SE014C,Borås,unemployment_rate,EC1020I,5.29,2024,urb_clma
+SE,SE015C,Växjö,unemployment_rate,EC1020I,5.63,2024,urb_clma
+SE,SE003C,Malmö,unemployment_rate,EC1020I,9.42,2024,urb_clma
+SE,SE005C,Umeå,unemployment_rate,EC1020I,2.75,2024,urb_clma
+SE,SE006C,Uppsala,unemployment_rate,EC1020I,4.34,2024,urb_clma
+SE,SE007C,Linköping,unemployment_rate,EC1020I,4.43,2024,urb_clma
+SE,SE008C,Örebro,unemployment_rate,EC1020I,5.52,2024,urb_clma
+SE,SE009C,Södertälje,unemployment_rate,EC1020I,8.1,2024,urb_clma
+SE,SE010C,Västerås,unemployment_rate,EC1020I,6.23,2024,urb_clma
+SE,SE011C,Norrköping,unemployment_rate,EC1020I,6.86,2024,urb_clma
+FI,FI005C,Espoo/Esbo,unemployment_rate,EC1020I,10.24,2024,urb_clma
+FI,FI006C,Vantaa/Vanda,unemployment_rate,EC1020I,13.14,2024,urb_clma
+FI,FI007C,Lahti/Lahtis,unemployment_rate,EC1020I,15.77,2024,urb_clma
+FI,FI008C,Kuopio,unemployment_rate,EC1020I,12.19,2024,urb_clma
+FI,FI009C,Jyväskylä,unemployment_rate,EC1020I,15.14,2024,urb_clma
+SE,SE,Sweden,unemployment_rate,EC1020I,4.86,2024,urb_clma
+SE,SE001C,Stockholm (greater city),unemployment_rate,EC1020I,4.47,2024,urb_clma
+SE,SE002C,Göteborg (greater city),unemployment_rate,EC1020I,4.96,2024,urb_clma
+NL,NL046C,Zoetermeer,unemployment_rate,EC1020I,3.51,2024,urb_clma
+NL,NL047C,Zwolle,unemployment_rate,EC1020I,3.97,2024,urb_clma
+SI,SI,Slovenia,unemployment_rate,EC1020I,4.88,2024,urb_clma
+SI,SI001C,Ljubljana,unemployment_rate,EC1020I,5.5,2024,urb_clma
+SI,SI002C,Maribor,unemployment_rate,EC1020I,7.7,2024,urb_clma
+FI,FI002C,Tampere/Tammerfors,unemployment_rate,EC1020I,13.05,2024,urb_clma
+FI,FI003C,Turku/Åbo,unemployment_rate,EC1020I,13.88,2024,urb_clma
+FI,FI004C,Oulu/Uleåborg,unemployment_rate,EC1020I,13.5,2024,urb_clma
+NL,NL038C,Roosendaal,unemployment_rate,EC1020I,4.27,2024,urb_clma
+NL,NL039C,Sittard-Geleen (greater city),unemployment_rate,EC1020I,4.64,2024,urb_clma
+NL,NL040C,Soest (greater city),unemployment_rate,EC1020I,4.57,2024,urb_clma
+NL,NL041C,Tilburg (greater city),unemployment_rate,EC1020I,4.59,2024,urb_clma
+NL,NL042C,Utrecht (greater city),unemployment_rate,EC1020I,4.27,2024,urb_clma
+NL,NL043C,Veenendaal,unemployment_rate,EC1020I,3.93,2024,urb_clma
+NL,NL044C,Venlo,unemployment_rate,EC1020I,3.7,2024,urb_clma
+NL,NL045C,Zaanstad (greater city),unemployment_rate,EC1020I,2.69,2024,urb_clma
+SE,SE013C,Lund,population,DE1001V,130291.0,2024,urb_cpop1
+SE,SE014C,Borås,population,DE1001V,114592.0,2024,urb_cpop1
+SE,SE015C,Växjö,population,DE1001V,97575.0,2024,urb_cpop1
+CH,CH001C,Bern (greater city),population,DE1001V,234044.0,2024,urb_cpop1
+CH,CH002C,Zurich (greater city),population,DE1001V,721075.0,2024,urb_cpop1
+SE,SE005C,Umeå,population,DE1001V,133093.0,2024,urb_cpop1
+SE,SE006C,Uppsala,population,DE1001V,245328.0,2024,urb_cpop1
+SE,SE007C,Linköping,population,DE1001V,167403.0,2024,urb_cpop1
+SE,SE008C,Örebro,population,DE1001V,159348.0,2024,urb_cpop1
+SE,SE009C,Södertälje,population,DE1001V,102518.0,2024,urb_cpop1
+SE,SE012C,Helsingborg,population,DE1001V,151307.0,2024,urb_cpop1
+NL,NL030C,Lelystad,unemployment_rate,EC1020I,4.85,2024,urb_clma
+NL,NL031C,Maastricht,unemployment_rate,EC1020I,4.18,2024,urb_clma
+NL,NL032C,Middelburg       ,unemployment_rate,EC1020I,2.12,2024,urb_clma
+NL,NL033C,Nijmegen,unemployment_rate,EC1020I,5.26,2024,urb_clma
+NL,NL034C,Nissewaard (greater city),unemployment_rate,EC1020I,3.97,2024,urb_clma
+NL,NL035C,Oss,unemployment_rate,EC1020I,2.82,2024,urb_clma
+NL,NL036C,Purmerend,unemployment_rate,EC1020I,2.43,2024,urb_clma
+NL,NL037C,Rotterdam (greater city),unemployment_rate,EC1020I,4.6,2024,urb_clma
+NL,NL022C,Heerlen (greater city),unemployment_rate,EC1020I,3.75,2024,urb_clma
+NL,NL023C,Helmond,unemployment_rate,EC1020I,4.66,2024,urb_clma
+NL,NL024C,Hengelo,unemployment_rate,EC1020I,3.33,2024,urb_clma
+NL,NL025C,'s-Hertogenbosch,unemployment_rate,EC1020I,2.53,2024,urb_clma
+NL,NL026C,Hilversum,unemployment_rate,EC1020I,4.11,2024,urb_clma
+NL,NL027C,Hoorn,unemployment_rate,EC1020I,3.03,2024,urb_clma
+NL,NL028C,Leeuwarden,unemployment_rate,EC1020I,4.99,2024,urb_clma
+NL,NL029C,Leiden (greater city),unemployment_rate,EC1020I,3.82,2024,urb_clma
+NL,NL014C,Eindhoven (greater city),unemployment_rate,EC1020I,3.9,2024,urb_clma
+NL,NL015C,Enschede,unemployment_rate,EC1020I,4.87,2024,urb_clma
+NL,NL016C,Gouda,unemployment_rate,EC1020I,3.36,2024,urb_clma
+NL,NL017C,'s-Gravenhage (greater city),unemployment_rate,EC1020I,5.27,2024,urb_clma
+NL,NL018C,Groningen,unemployment_rate,EC1020I,5.72,2024,urb_clma
+NL,NL019C,Haarlem (greater city),unemployment_rate,EC1020I,4.05,2024,urb_clma
+NL,NL020C,Haarlemmermeer,unemployment_rate,EC1020I,3.23,2024,urb_clma
+NL,NL021C,Heemskerk (greater city),unemployment_rate,EC1020I,2.2,2024,urb_clma
+NL,NL006C,Amersfoort,unemployment_rate,EC1020I,4.37,2024,urb_clma
+NL,NL007C,Apeldoorn,unemployment_rate,EC1020I,3.24,2024,urb_clma
+NL,NL008C,Arnhem,unemployment_rate,EC1020I,4.0,2024,urb_clma
+NL,NL009C,Assen,unemployment_rate,EC1020I,4.88,2024,urb_clma
+NL,NL010C,Bergen op Zoom,unemployment_rate,EC1020I,1.82,2024,urb_clma
+NL,NL011C,Breda,unemployment_rate,EC1020I,3.64,2024,urb_clma
+NL,NL012C,Deventer,unemployment_rate,EC1020I,3.47,2024,urb_clma
+NL,NL013C,Ede,unemployment_rate,EC1020I,3.38,2024,urb_clma
+LT,LT006C,Šiauliai,unemployment_rate,EC1020I,6.23,2024,urb_clma
+MT,MT001C,Greater Valletta,unemployment_rate,EC1020I,3.28,2024,urb_clma
+NL,NL,Netherlands,unemployment_rate,EC1020I,3.66,2024,urb_clma
+NL,NL001C,Amsterdam (greater city),unemployment_rate,EC1020I,4.75,2024,urb_clma
+NL,NL002C,Alkmaar (greater city),unemployment_rate,EC1020I,3.25,2024,urb_clma
+NL,NL003C,Almelo,unemployment_rate,EC1020I,4.39,2024,urb_clma
+NL,NL004C,Almere,unemployment_rate,EC1020I,4.08,2024,urb_clma
+NL,NL005C,Alphen aan den Rijn,unemployment_rate,EC1020I,3.6,2024,urb_clma
+HR,HR007C,Zadar,unemployment_rate,EC1020I,4.79,2024,urb_clma
+LV,LV,Latvia,unemployment_rate,EC1020I,6.88,2024,urb_clma
+LV,LV001C,Rīga,unemployment_rate,EC1020I,6.47,2024,urb_clma
+LV,LV002C,Liepāja,unemployment_rate,EC1020I,7.01,2024,urb_clma
+LV,LV004C,Daugavpils,unemployment_rate,EC1020I,9.07,2024,urb_clma
+LT,LT001C,Vilnius,unemployment_rate,EC1020I,4.72,2024,urb_clma
+LT,LT002C,Kaunas,unemployment_rate,EC1020I,6.05,2024,urb_clma
+LT,LT005C,Klaipėda,unemployment_rate,EC1020I,7.09,2024,urb_clma
+ES,ES115C,Premià de Mar (greater city),unemployment_rate,EC1020I,7.36,2024,urb_clma
+ES,ES116C,Sabadell (greater city),unemployment_rate,EC1020I,10.04,2024,urb_clma
+ES,ES117C,Terrassa,unemployment_rate,EC1020I,11.0,2024,urb_clma
+ES,ES118C,Huesca,unemployment_rate,EC1020I,12.5,2024,urb_clma
+HR,HR001C,Zagreb,unemployment_rate,EC1020I,2.83,2024,urb_clma
+HR,HR002C,Rijeka,unemployment_rate,EC1020I,4.7,2024,urb_clma
+HR,HR004C,Osijek,unemployment_rate,EC1020I,6.07,2024,urb_clma
+HR,HR005C,Split (greater city),unemployment_rate,EC1020I,7.87,2024,urb_clma
+ES,ES107C,Rivas-Vaciamadrid,unemployment_rate,EC1020I,7.71,2024,urb_clma
+ES,ES108C,Coslada (greater city),unemployment_rate,EC1020I,9.54,2024,urb_clma
+ES,ES109C,Las Rozas de Madrid (greater city),unemployment_rate,EC1020I,5.48,2024,urb_clma
+ES,ES110C,Castelldefels,unemployment_rate,EC1020I,6.33,2024,urb_clma
+ES,ES111C,Viladecans (greater city),unemployment_rate,EC1020I,8.33,2024,urb_clma
+ES,ES112C,"Prat de Llobregat, El",unemployment_rate,EC1020I,8.85,2024,urb_clma
+ES,ES113C,Sant Boi de Llobregat,unemployment_rate,EC1020I,8.84,2024,urb_clma
+ES,ES114C,Sant Cugat del Vallès (greater city),unemployment_rate,EC1020I,7.32,2024,urb_clma
+ES,ES099C,Vícar,unemployment_rate,EC1020I,13.44,2024,urb_clma
+ES,ES100C,Armilla (greater city),unemployment_rate,EC1020I,21.74,2024,urb_clma
+ES,ES101C,Mairena del Aljarafe (greater city),unemployment_rate,EC1020I,13.99,2024,urb_clma
+ES,ES102C,Aranjuez,unemployment_rate,EC1020I,11.52,2024,urb_clma
+ES,ES103C,Parla,unemployment_rate,EC1020I,12.35,2024,urb_clma
+ES,ES104C,Pinto,unemployment_rate,EC1020I,9.39,2024,urb_clma
+ES,ES105C,Arganda del Rey,unemployment_rate,EC1020I,11.85,2024,urb_clma
+ES,ES106C,Fuenlabrada,unemployment_rate,EC1020I,11.11,2024,urb_clma
+ES,ES089C,Eivissa,unemployment_rate,EC1020I,7.04,2024,urb_clma
+ES,ES090C,Linares,unemployment_rate,EC1020I,27.59,2024,urb_clma
+ES,ES091C,Lorca,unemployment_rate,EC1020I,9.05,2024,urb_clma
+ES,ES092C,Mérida,unemployment_rate,EC1020I,17.24,2024,urb_clma
+ES,ES093C,Sagunto (greater city),unemployment_rate,EC1020I,13.07,2024,urb_clma
+ES,ES095C,Valdemoro,unemployment_rate,EC1020I,9.14,2024,urb_clma
+ES,ES096C,Puerto de la Cruz (greater city),unemployment_rate,EC1020I,14.96,2024,urb_clma
+ES,ES097C,Igualada (greater city),unemployment_rate,EC1020I,11.83,2024,urb_clma
+ES,ES077C,Mataró,unemployment_rate,EC1020I,10.62,2024,urb_clma
+ES,ES078C,Dos Hermanas,unemployment_rate,EC1020I,15.61,2024,urb_clma
+ES,ES079C,Algeciras,unemployment_rate,EC1020I,22.6,2024,urb_clma
+ES,ES081C,Torrejón de Ardoz,unemployment_rate,EC1020I,10.04,2024,urb_clma
+ES,ES082C,Alcalá de Guadaíra,unemployment_rate,EC1020I,16.89,2024,urb_clma
+ES,ES083C,Alcoy/Alcoi,unemployment_rate,EC1020I,15.68,2024,urb_clma
+ES,ES086C,Chiclana de la Frontera,unemployment_rate,EC1020I,19.46,2024,urb_clma
+ES,ES087C,Collado Villalba,unemployment_rate,EC1020I,10.13,2024,urb_clma
+ES,ES069C,Castellón de la Plana/Castelló de la Plana,unemployment_rate,EC1020I,16.2,2024,urb_clma
+ES,ES070C,Huelva,unemployment_rate,EC1020I,19.45,2024,urb_clma
+ES,ES071C,Cádiz,unemployment_rate,EC1020I,19.25,2024,urb_clma
+ES,ES072C,León (greater city),unemployment_rate,EC1020I,9.9,2024,urb_clma
+ES,ES073C,Tarragona (greater city),unemployment_rate,EC1020I,13.13,2024,urb_clma
+ES,ES074C,Jaén,unemployment_rate,EC1020I,21.71,2024,urb_clma
+ES,ES075C,Lleida,unemployment_rate,EC1020I,8.39,2024,urb_clma
+ES,ES076C,Ourense (greater city),unemployment_rate,EC1020I,11.16,2024,urb_clma
+ES,ES061C,Cartagena,unemployment_rate,EC1020I,15.1,2024,urb_clma
+ES,ES062C,Jerez de la Frontera,unemployment_rate,EC1020I,21.8,2024,urb_clma
+ES,ES063C,San Sebastián/Donostia (greater city),unemployment_rate,EC1020I,5.97,2024,urb_clma
+ES,ES064C,Alcalá de Henares,unemployment_rate,EC1020I,10.88,2024,urb_clma
+ES,ES065C,Almería (greater city),unemployment_rate,EC1020I,19.77,2024,urb_clma
+ES,ES066C,Burgos,unemployment_rate,EC1020I,7.29,2024,urb_clma
+ES,ES067C,Salamanca (greater city),unemployment_rate,EC1020I,13.38,2024,urb_clma
+ES,ES068C,Albacete,unemployment_rate,EC1020I,10.73,2024,urb_clma
+ES,ES053C,Irun (greater city),unemployment_rate,EC1020I,7.08,2024,urb_clma
+ES,ES054C,Granollers (greater city),unemployment_rate,EC1020I,10.05,2024,urb_clma
+ES,ES055C,Arrecife,unemployment_rate,EC1020I,10.36,2024,urb_clma
+ES,ES056C,Elda (greater city),unemployment_rate,EC1020I,17.76,2024,urb_clma
+ES,ES057C,Santa Lucía de Tirajana,unemployment_rate,EC1020I,14.18,2024,urb_clma
+ES,ES058C,Mollet del Vallès (greater city),unemployment_rate,EC1020I,8.99,2024,urb_clma
+ES,ES059C,Granada (greater city),unemployment_rate,EC1020I,23.13,2024,urb_clma
+ES,ES060C,Elche/Elx,unemployment_rate,EC1020I,15.74,2024,urb_clma
+ES,ES045C,Melilla,unemployment_rate,EC1020I,26.51,2024,urb_clma
+ES,ES046C,Ponferrada,unemployment_rate,EC1020I,11.0,2024,urb_clma
+ES,ES047C,Zamora,unemployment_rate,EC1020I,15.19,2024,urb_clma
+ES,ES048C,Fuengirola,unemployment_rate,EC1020I,13.05,2024,urb_clma
+ES,ES049C,Sanlúcar de Barrameda,unemployment_rate,EC1020I,20.28,2024,urb_clma
+ES,ES050C,Vilanova i la Geltrú,unemployment_rate,EC1020I,10.14,2024,urb_clma
+ES,ES051C,"Línea de la Concepción, La",unemployment_rate,EC1020I,28.6,2024,urb_clma
+ES,ES052C,Torremolinos (greater city),unemployment_rate,EC1020I,13.44,2024,urb_clma
+ES,ES037C,Ferrol (greater city),unemployment_rate,EC1020I,10.72,2024,urb_clma
+ES,ES038C,Pontevedra,unemployment_rate,EC1020I,11.4,2024,urb_clma
+ES,ES039C,Ceuta,unemployment_rate,EC1020I,26.27,2024,urb_clma
+ES,ES040C,Gandia (greater city),unemployment_rate,EC1020I,13.26,2024,urb_clma
+ES,ES041C,Guadalajara,unemployment_rate,EC1020I,11.14,2024,urb_clma
+ES,ES042C,Manresa (greater city),unemployment_rate,EC1020I,11.71,2024,urb_clma
+ES,ES043C,Ciudad Real,unemployment_rate,EC1020I,15.91,2024,urb_clma
+ES,ES044C,Benidorm,unemployment_rate,EC1020I,9.1,2024,urb_clma
+ES,ES029C,San Fernando,unemployment_rate,EC1020I,20.33,2024,urb_clma
+ES,ES030C,Girona (greater city),unemployment_rate,EC1020I,12.24,2024,urb_clma
+ES,ES031C,Cáceres,unemployment_rate,EC1020I,15.08,2024,urb_clma
+ES,ES032C,Torrevieja,unemployment_rate,EC1020I,15.64,2024,urb_clma
+ES,ES033C,"Puerto de Santa María, El",unemployment_rate,EC1020I,18.56,2024,urb_clma
+ES,ES034C,Avilés (greater city),unemployment_rate,EC1020I,11.29,2024,urb_clma
+ES,ES035C,Talavera de la Reina,unemployment_rate,EC1020I,20.82,2024,urb_clma
+ES,ES036C,Palencia,unemployment_rate,EC1020I,8.07,2024,urb_clma
+ES,ES021C,Alicante/Alacant (greater city),unemployment_rate,EC1020I,14.82,2024,urb_clma
+ES,ES022C,Vigo,unemployment_rate,EC1020I,12.16,2024,urb_clma
+ES,ES023C,Gijón,unemployment_rate,EC1020I,10.78,2024,urb_clma
+ES,ES024C,Santa Cruz de Tenerife (greater city),unemployment_rate,EC1020I,15.39,2024,urb_clma
+ES,ES025C,A Coruña (greater city),unemployment_rate,EC1020I,9.05,2024,urb_clma
+ES,ES026C,Reus,unemployment_rate,EC1020I,15.15,2024,urb_clma
+ES,ES027C,Telde,unemployment_rate,EC1020I,17.02,2024,urb_clma
+ES,ES028C,Lugo,unemployment_rate,EC1020I,7.96,2024,urb_clma
+ES,ES013C,Oviedo,unemployment_rate,EC1020I,9.25,2024,urb_clma
+ES,ES014C,Pamplona/Iruña (greater city),unemployment_rate,EC1020I,7.98,2024,urb_clma
+ES,ES015C,Santander,unemployment_rate,EC1020I,8.7,2024,urb_clma
+ES,ES016C,Toledo,unemployment_rate,EC1020I,9.13,2024,urb_clma
+ES,ES017C,Badajoz,unemployment_rate,EC1020I,15.81,2024,urb_clma
+ES,ES018C,Logroño,unemployment_rate,EC1020I,10.6,2024,urb_clma
+ES,ES019C,Bilbao (greater city),unemployment_rate,EC1020I,9.95,2024,urb_clma
+ES,ES020C,Córdoba,unemployment_rate,EC1020I,19.55,2024,urb_clma
+ES,ES005C,Zaragoza,unemployment_rate,EC1020I,7.48,2024,urb_clma
+ES,ES006C,Málaga,unemployment_rate,EC1020I,12.3,2024,urb_clma
+ES,ES007C,Murcia,unemployment_rate,EC1020I,13.37,2024,urb_clma
+ES,ES008C,"Palmas de Gran Canaria, Las",unemployment_rate,EC1020I,16.42,2024,urb_clma
+ES,ES009C,Valladolid (greater city),unemployment_rate,EC1020I,11.53,2024,urb_clma
+ES,ES010C,Palma de Mallorca,unemployment_rate,EC1020I,12.14,2024,urb_clma
+ES,ES011C,Santiago de Compostela,unemployment_rate,EC1020I,7.03,2024,urb_clma
+ES,ES012C,Vitoria-Gasteiz,unemployment_rate,EC1020I,8.59,2024,urb_clma
+DE,DE124C,Wuppertal,unemployment_rate,EC1020I,7.69,2024,urb_clma
+EE,EE001C,Tallinn,unemployment_rate,EC1020I,7.88,2024,urb_clma
+EE,EE002C,Tartu,unemployment_rate,EC1020I,4.4,2024,urb_clma
+EE,EE003C,Narva,unemployment_rate,EC1020I,16.18,2024,urb_clma
+ES,ES001C,Madrid (greater city),unemployment_rate,EC1020I,8.91,2024,urb_clma
+ES,ES002C,Barcelona (greater city),unemployment_rate,EC1020I,7.92,2024,urb_clma
+ES,ES003C,Valencia (greater city),unemployment_rate,EC1020I,12.16,2024,urb_clma
+ES,ES004C,Sevilla,unemployment_rate,EC1020I,12.1,2024,urb_clma
+DE,DE036C,Kiel,unemployment_rate,EC1020I,5.56,2024,urb_clma
+DE,DE037C,Saarbrücken,unemployment_rate,EC1020I,6.67,2024,urb_clma
+DE,DE080C,Duisburg,unemployment_rate,EC1020I,6.22,2024,urb_clma
+DE,DE081C,Mannheim,unemployment_rate,EC1020I,5.52,2024,urb_clma
+DE,DE082C,Gelsenkirchen,unemployment_rate,EC1020I,11.11,2024,urb_clma
+DE,DE083C,Münster,unemployment_rate,EC1020I,3.91,2024,urb_clma
+DE,DE086C,Aachen,unemployment_rate,EC1020I,6.34,2024,urb_clma
+DE,DE087C,Krefeld,unemployment_rate,EC1020I,7.21,2024,urb_clma
+DE,DE031C,Augsburg,unemployment_rate,EC1020I,6.9,2024,urb_clma
+DE,DE032C,Bonn,unemployment_rate,EC1020I,4.71,2024,urb_clma
+DE,DE033C,Karlsruhe,unemployment_rate,EC1020I,4.42,2024,urb_clma
+DE,DE012C,Bremen,unemployment_rate,EC1020I,5.92,2024,urb_clma
+DE,DE013C,Hannover,unemployment_rate,EC1020I,5.15,2024,urb_clma
+DE,DE014C,Nürnberg,unemployment_rate,EC1020I,5.72,2024,urb_clma
+DE,DE018C,Magdeburg,unemployment_rate,EC1020I,7.03,2024,urb_clma
+DE,DE025C,Freiburg im Breisgau,unemployment_rate,EC1020I,5.0,2024,urb_clma
+DE,DE004C,Köln,unemployment_rate,EC1020I,5.78,2024,urb_clma
+DE,DE005C,Frankfurt am Main,unemployment_rate,EC1020I,4.87,2024,urb_clma
+DE,DE006C,Essen,unemployment_rate,EC1020I,6.73,2024,urb_clma
+DE,DE010C,Dortmund,unemployment_rate,EC1020I,5.94,2024,urb_clma
+DE,DE011C,Düsseldorf,unemployment_rate,EC1020I,5.17,2024,urb_clma
+DE,DE001C,Berlin,unemployment_rate,EC1020I,6.88,2024,urb_clma
+DE,DE002C,Hamburg,unemployment_rate,EC1020I,5.76,2024,urb_clma
+DE,DE003C,München,unemployment_rate,EC1020I,4.36,2024,urb_clma
+DE,DE015C,Bochum,unemployment_rate,EC1020I,6.49,2024,urb_clma
+DE,DE016C,Bielefeld,unemployment_rate,EC1020I,5.08,2024,urb_clma
+DE,DE017C,Halle an der Saale,unemployment_rate,EC1020I,7.21,2024,urb_clma
+DE,DE007C,Stuttgart,unemployment_rate,EC1020I,4.62,2024,urb_clma
+DE,DE008C,Leipzig,unemployment_rate,EC1020I,6.05,2024,urb_clma
+DE,DE009C,Dresden,unemployment_rate,EC1020I,5.57,2024,urb_clma
+ES,ES006C,Málaga,annual_rent_per_m2,SA1049V,122.06,2024,urb_clivcon
+ES,ES007C,Murcia,annual_rent_per_m2,SA1049V,81.06,2024,urb_clivcon
+ES,ES008C,"Palmas de Gran Canaria, Las",annual_rent_per_m2,SA1049V,104.2,2024,urb_clivcon
+ES,ES028C,Lugo,annual_rent_per_m2,SA1049V,61.43,2024,urb_clivcon
+ES,ES029C,San Fernando,annual_rent_per_m2,SA1049V,83.16,2024,urb_clivcon
+ES,ES030C,Girona (greater city),annual_rent_per_m2,SA1049V,108.06,2024,urb_clivcon
+ES,ES031C,Cáceres,annual_rent_per_m2,SA1049V,67.54,2024,urb_clivcon
+ES,ES032C,Torrevieja,annual_rent_per_m2,SA1049V,89.97,2024,urb_clivcon
+ES,ES020C,Córdoba,annual_rent_per_m2,SA1049V,88.08,2024,urb_clivcon
+ES,ES021C,Alicante/Alacant (greater city),annual_rent_per_m2,SA1049V,93.28,2024,urb_clivcon
+ES,ES022C,Vigo,annual_rent_per_m2,SA1049V,95.8,2024,urb_clivcon
+ES,ES023C,Gijón,annual_rent_per_m2,SA1049V,92.81,2024,urb_clivcon
+ES,ES024C,Santa Cruz de Tenerife (greater city),annual_rent_per_m2,SA1049V,95.63,2024,urb_clivcon
+ES,ES041C,Guadalajara,annual_rent_per_m2,SA1049V,90.79,2024,urb_clivcon
+ES,ES042C,Manresa (greater city),annual_rent_per_m2,SA1049V,79.12,2024,urb_clivcon
+ES,ES043C,Ciudad Real,annual_rent_per_m2,SA1049V,72.85,2024,urb_clivcon
+ES,ES009C,Valladolid (greater city),annual_rent_per_m2,SA1049V,85.35,2024,urb_clivcon
+ES,ES010C,Palma de Mallorca,annual_rent_per_m2,SA1049V,126.42,2024,urb_clivcon
+ES,ES011C,Santiago de Compostela,annual_rent_per_m2,SA1049V,89.1,2024,urb_clivcon
+ES,ES013C,Oviedo,annual_rent_per_m2,SA1049V,93.02,2024,urb_clivcon
+ES,ES015C,Santander,annual_rent_per_m2,SA1049V,105.07,2024,urb_clivcon
+ES,ES033C,"Puerto de Santa María, El",annual_rent_per_m2,SA1049V,101.88,2024,urb_clivcon
+ES,ES034C,Avilés (greater city),annual_rent_per_m2,SA1049V,74.33,2024,urb_clivcon
+ES,ES035C,Talavera de la Reina,annual_rent_per_m2,SA1049V,65.69,2024,urb_clivcon
+ES,ES001C,Madrid (greater city),annual_rent_per_m2,SA1049V,172.36,2024,urb_clivcon
+ES,ES002C,Barcelona (greater city),annual_rent_per_m2,SA1049V,162.17,2024,urb_clivcon
+ES,ES003C,Valencia (greater city),annual_rent_per_m2,SA1049V,98.89,2024,urb_clivcon
+ES,ES004C,Sevilla,annual_rent_per_m2,SA1049V,115.3,2024,urb_clivcon
+ES,ES005C,Zaragoza,annual_rent_per_m2,SA1049V,96.09,2024,urb_clivcon
+ES,ES025C,A Coruña (greater city),annual_rent_per_m2,SA1049V,89.02,2024,urb_clivcon
+ES,ES026C,Reus,annual_rent_per_m2,SA1049V,82.24,2024,urb_clivcon
+ES,ES027C,Telde,annual_rent_per_m2,SA1049V,86.82,2024,urb_clivcon
+ES,ES061C,Cartagena,annual_rent_per_m2,SA1049V,66.21,2024,urb_clivcon
+ES,ES062C,Jerez de la Frontera,annual_rent_per_m2,SA1049V,80.96,2024,urb_clivcon
+ES,ES064C,Alcalá de Henares,annual_rent_per_m2,SA1049V,118.41,2024,urb_clivcon
+ES,ES065C,Almería (greater city),annual_rent_per_m2,SA1049V,83.78,2024,urb_clivcon
+ES,ES066C,Burgos,annual_rent_per_m2,SA1049V,89.13,2024,urb_clivcon
+ES,ES016C,Toledo,annual_rent_per_m2,SA1049V,91.32,2024,urb_clivcon
+ES,ES017C,Badajoz,annual_rent_per_m2,SA1049V,72.75,2024,urb_clivcon
+ES,ES018C,Logroño,annual_rent_per_m2,SA1049V,80.36,2024,urb_clivcon
+ES,ES052C,Torremolinos (greater city),annual_rent_per_m2,SA1049V,131.23,2024,urb_clivcon
+ES,ES054C,Granollers (greater city),annual_rent_per_m2,SA1049V,106.65,2024,urb_clivcon
+ES,ES055C,Arrecife,annual_rent_per_m2,SA1049V,87.02,2024,urb_clivcon
+ES,ES056C,Elda (greater city),annual_rent_per_m2,SA1049V,57.37,2024,urb_clivcon
+ES,ES057C,Santa Lucía de Tirajana,annual_rent_per_m2,SA1049V,82.98,2024,urb_clivcon
+ES,ES075C,Lleida,annual_rent_per_m2,SA1049V,81.97,2024,urb_clivcon
+ES,ES076C,Ourense (greater city),annual_rent_per_m2,SA1049V,65.74,2024,urb_clivcon
+ES,ES077C,Mataró,annual_rent_per_m2,SA1049V,110.95,2024,urb_clivcon
+ES,ES044C,Benidorm,annual_rent_per_m2,SA1049V,109.29,2024,urb_clivcon
+ES,ES045C,Melilla,annual_rent_per_m2,SA1049V,108.5,2024,urb_clivcon
+ES,ES046C,Ponferrada,annual_rent_per_m2,SA1049V,62.98,2024,urb_clivcon
+ES,ES047C,Zamora,annual_rent_per_m2,SA1049V,62.83,2024,urb_clivcon
+ES,ES048C,Fuengirola,annual_rent_per_m2,SA1049V,120.76,2024,urb_clivcon
+ES,ES067C,Salamanca (greater city),annual_rent_per_m2,SA1049V,79.76,2024,urb_clivcon
+ES,ES068C,Albacete,annual_rent_per_m2,SA1049V,75.63,2024,urb_clivcon
+ES,ES069C,Castellón de la Plana/Castelló de la Plana,annual_rent_per_m2,SA1049V,69.59,2024,urb_clivcon
+ES,ES036C,Palencia,annual_rent_per_m2,SA1049V,72.63,2024,urb_clivcon
+ES,ES037C,Ferrol (greater city),annual_rent_per_m2,SA1049V,57.7,2024,urb_clivcon
+ES,ES038C,Pontevedra,annual_rent_per_m2,SA1049V,78.34,2024,urb_clivcon
+ES,ES039C,Ceuta,annual_rent_per_m2,SA1049V,117.28,2024,urb_clivcon
+ES,ES040C,Gandia (greater city),annual_rent_per_m2,SA1049V,68.65,2024,urb_clivcon
+ES,ES058C,Mollet del Vallès (greater city),annual_rent_per_m2,SA1049V,101.59,2024,urb_clivcon
+ES,ES059C,Granada (greater city),annual_rent_per_m2,SA1049V,84.33,2024,urb_clivcon
+ES,ES060C,Elche/Elx,annual_rent_per_m2,SA1049V,70.32,2024,urb_clivcon
+ES,ES100C,Armilla (greater city),annual_rent_per_m2,SA1049V,77.2,2024,urb_clivcon
+ES,ES101C,Mairena del Aljarafe (greater city),annual_rent_per_m2,SA1049V,93.89,2024,urb_clivcon
+ES,ES102C,Aranjuez,annual_rent_per_m2,SA1049V,99.96,2024,urb_clivcon
+ES,ES103C,Parla,annual_rent_per_m2,SA1049V,103.63,2024,urb_clivcon
+ES,ES104C,Pinto,annual_rent_per_m2,SA1049V,117.31,2024,urb_clivcon
+ES,ES049C,Sanlúcar de Barrameda,annual_rent_per_m2,SA1049V,83.5,2024,urb_clivcon
+ES,ES050C,Vilanova i la Geltrú,annual_rent_per_m2,SA1049V,110.46,2024,urb_clivcon
+ES,ES051C,"Línea de la Concepción, La",annual_rent_per_m2,SA1049V,97.74,2024,urb_clivcon
+ES,ES090C,Linares,annual_rent_per_m2,SA1049V,52.57,2024,urb_clivcon
+ES,ES091C,Lorca,annual_rent_per_m2,SA1049V,60.45,2024,urb_clivcon
+ES,ES092C,Mérida,annual_rent_per_m2,SA1049V,64.07,2024,urb_clivcon
+ES,ES093C,Sagunto (greater city),annual_rent_per_m2,SA1049V,84.22,2024,urb_clivcon
+ES,ES095C,Valdemoro,annual_rent_per_m2,SA1049V,112.57,2024,urb_clivcon
+ES,ES113C,Sant Boi de Llobregat,annual_rent_per_m2,SA1049V,131.04,2024,urb_clivcon
+ES,ES114C,Sant Cugat del Vallès (greater city),annual_rent_per_m2,SA1049V,140.38,2024,urb_clivcon
+ES,ES115C,Premià de Mar (greater city),annual_rent_per_m2,SA1049V,119.37,2024,urb_clivcon
+ES,ES078C,Dos Hermanas,annual_rent_per_m2,SA1049V,91.37,2024,urb_clivcon
+ES,ES079C,Algeciras,annual_rent_per_m2,SA1049V,86.13,2024,urb_clivcon
+ES,ES081C,Torrejón de Ardoz,annual_rent_per_m2,SA1049V,115.44,2024,urb_clivcon
+ES,ES082C,Alcalá de Guadaíra,annual_rent_per_m2,SA1049V,77.82,2024,urb_clivcon
+ES,ES083C,Alcoy/Alcoi,annual_rent_per_m2,SA1049V,57.28,2024,urb_clivcon
+ES,ES105C,Arganda del Rey,annual_rent_per_m2,SA1049V,100.9,2024,urb_clivcon
+ES,ES106C,Fuenlabrada,annual_rent_per_m2,SA1049V,112.59,2024,urb_clivcon
+ES,ES107C,Rivas-Vaciamadrid,annual_rent_per_m2,SA1049V,112.29,2024,urb_clivcon
+ES,ES070C,Huelva,annual_rent_per_m2,SA1049V,86.89,2024,urb_clivcon
+ES,ES071C,Cádiz,annual_rent_per_m2,SA1049V,114.98,2024,urb_clivcon
+ES,ES072C,León (greater city),annual_rent_per_m2,SA1049V,71.32,2024,urb_clivcon
+ES,ES073C,Tarragona (greater city),annual_rent_per_m2,SA1049V,94.95,2024,urb_clivcon
+ES,ES074C,Jaén,annual_rent_per_m2,SA1049V,74.84,2024,urb_clivcon
+ES,ES096C,Puerto de la Cruz (greater city),annual_rent_per_m2,SA1049V,110.63,2024,urb_clivcon
+ES,ES097C,Igualada (greater city),annual_rent_per_m2,SA1049V,79.54,2024,urb_clivcon
+ES,ES099C,Vícar,annual_rent_per_m2,SA1049V,65.18,2024,urb_clivcon
+PT,PT002C,Porto (greater city),annual_rent_per_m2,SA1049V,11.0,2024,urb_clivcon
+PT,PT003C,Braga (greater city),annual_rent_per_m2,SA1049V,7.93,2024,urb_clivcon
+PT,PT004C,Funchal (greater city),annual_rent_per_m2,SA1049V,11.34,2024,urb_clivcon
+PT,PT005C,Coimbra (greater city),annual_rent_per_m2,SA1049V,7.66,2024,urb_clivcon
+PT,PT006C,Setúbal (greater city),annual_rent_per_m2,SA1049V,9.87,2024,urb_clivcon
+ES,ES086C,Chiclana de la Frontera,annual_rent_per_m2,SA1049V,81.64,2024,urb_clivcon
+ES,ES087C,Collado Villalba,annual_rent_per_m2,SA1049V,119.09,2024,urb_clivcon
+ES,ES089C,Eivissa,annual_rent_per_m2,SA1049V,162.02,2024,urb_clivcon
+LT,LT001C,Vilnius,annual_rent_per_m2,SA1049V,145.97,2024,urb_clivcon
+LT,LT002C,Kaunas,annual_rent_per_m2,SA1049V,109.18,2024,urb_clivcon
+LT,LT003C,Panevėžys,annual_rent_per_m2,SA1049V,72.68,2024,urb_clivcon
+LT,LT005C,Klaipėda,annual_rent_per_m2,SA1049V,96.56,2024,urb_clivcon
+LT,LT006C,Šiauliai,annual_rent_per_m2,SA1049V,76.17,2024,urb_clivcon
+PT,PT015C,Guimarães (greater city),annual_rent_per_m2,SA1049V,6.29,2024,urb_clivcon
+PT,PT016C,Vila Franca de Xira (greater city),annual_rent_per_m2,SA1049V,9.97,2024,urb_clivcon
+FI,FI001C,Helsinki/Helsingfors,annual_rent_per_m2,SA1049V,237.66,2024,urb_clivcon
+ES,ES116C,Sabadell (greater city),annual_rent_per_m2,SA1049V,109.24,2024,urb_clivcon
+ES,ES117C,Terrassa,annual_rent_per_m2,SA1049V,109.89,2024,urb_clivcon
+ES,ES118C,Huesca,annual_rent_per_m2,SA1049V,83.95,2024,urb_clivcon
+HR,HR001C,Zagreb,annual_rent_per_m2,SA1049V,180.0,2024,urb_clivcon
+HR,HR002C,Rijeka,annual_rent_per_m2,SA1049V,129.0,2024,urb_clivcon
+PT,PT007C,Ponta Delgada (greater city),annual_rent_per_m2,SA1049V,6.48,2024,urb_clivcon
+PT,PT008C,Aveiro (greater city),annual_rent_per_m2,SA1049V,8.58,2024,urb_clivcon
+PT,PT009C,Faro (greater city),annual_rent_per_m2,SA1049V,8.65,2024,urb_clivcon
+ES,ES108C,Coslada (greater city),annual_rent_per_m2,SA1049V,123.44,2024,urb_clivcon
+ES,ES109C,Las Rozas de Madrid (greater city),annual_rent_per_m2,SA1049V,162.81,2024,urb_clivcon
+ES,ES110C,Castelldefels,annual_rent_per_m2,SA1049V,160.7,2024,urb_clivcon
+ES,ES111C,Viladecans (greater city),annual_rent_per_m2,SA1049V,129.19,2024,urb_clivcon
+ES,ES112C,"Prat de Llobregat, El",annual_rent_per_m2,SA1049V,130.9,2024,urb_clivcon
+MT,MT,Malta,annual_rent_per_m2,SA1049V,111.0,2024,urb_clivcon
+PT,PT,Portugal,annual_rent_per_m2,SA1049V,9.15,2024,urb_clivcon
+PT,PT001C,Lisboa (greater city),annual_rent_per_m2,SA1049V,14.0,2024,urb_clivcon
+HR,HR004C,Osijek,annual_rent_per_m2,SA1049V,120.0,2024,urb_clivcon
+HR,HR005C,Split (greater city),annual_rent_per_m2,SA1049V,196.0,2024,urb_clivcon
+HR,HR007C,Zadar,annual_rent_per_m2,SA1049V,154.0,2024,urb_clivcon
+FI,FI002C,Tampere/Tammerfors,annual_rent_per_m2,SA1049V,195.51,2024,urb_clivcon
+FI,FI003C,Turku/Åbo,annual_rent_per_m2,SA1049V,187.91,2024,urb_clivcon
+FI,FI004C,Oulu/Uleåborg,annual_rent_per_m2,SA1049V,169.15,2024,urb_clivcon
+FI,FI005C,Espoo/Esbo,annual_rent_per_m2,SA1049V,215.88,2024,urb_clivcon
+FI,FI006C,Vantaa/Vanda,annual_rent_per_m2,SA1049V,213.96,2024,urb_clivcon
+PT,PT010C,Viseu (greater city),annual_rent_per_m2,SA1049V,6.09,2024,urb_clivcon
+PT,PT011C,Viana do Castelo (greater city),annual_rent_per_m2,SA1049V,7.15,2024,urb_clivcon
+PT,PT012C,Paredes (greater city),annual_rent_per_m2,SA1049V,5.46,2024,urb_clivcon
+PT,PT013C,Póvoa de Varzim (greater city),annual_rent_per_m2,SA1049V,8.35,2024,urb_clivcon
+PT,PT014C,Sintra (greater city),annual_rent_per_m2,SA1049V,10.3,2024,urb_clivcon
+FI,FI007C,Lahti/Lahtis,annual_rent_per_m2,SA1049V,168.3,2024,urb_clivcon
+FI,FI008C,Kuopio,annual_rent_per_m2,SA1049V,179.64,2024,urb_clivcon
+FI,FI009C,Jyväskylä,annual_rent_per_m2,SA1049V,176.87,2024,urb_clivcon
+CH,CH008C,Lugano (greater city),public_transport_usage,TT1010V,27.77,2024,urb_ctran
+CH,CH009C,St. Gallen (greater city),public_transport_usage,TT1010V,39.87,2024,urb_ctran
+CH,CH001C,Bern (greater city),public_transport_usage,TT1010V,52.79,2024,urb_ctran
+HR,HR002C,Rijeka,monthly_transport_ticket,TT1080V,48.0,2024,urb_ctran
+BE,BE004C,Charleroi (greater city),monthly_transport_ticket,TT1080V,37.0,2024,urb_ctran
+BE,BE005C,Liège (greater city),monthly_transport_ticket,TT1080V,37.0,2024,urb_ctran
+BE,BE006C,Brugge,monthly_transport_ticket,TT1080V,49.0,2024,urb_ctran
+BE,BE007C,Namur,monthly_transport_ticket,TT1080V,37.0,2024,urb_ctran
+BE,BE011C,Oostende (greater city),monthly_transport_ticket,TT1080V,49.0,2024,urb_ctran
+BE,BE001C,Bruxelles/Brussel (greater city),monthly_transport_ticket,TT1080V,60.0,2024,urb_ctran
+BE,BE002C,Antwerpen (greater city),monthly_transport_ticket,TT1080V,49.0,2024,urb_ctran
+BE,BE003C,Gent,monthly_transport_ticket,TT1080V,49.0,2024,urb_ctran
+EE,EE001C,Tallinn,monthly_transport_ticket,TT1080V,30.0,2024,urb_ctran
+EE,EE003C,Narva,monthly_transport_ticket,TT1080V,20.0,2024,urb_ctran
+HR,HR001C,Zagreb,monthly_transport_ticket,TT1080V,53.0,2024,urb_ctran
+BE,BE008C,Leuven,monthly_transport_ticket,TT1080V,49.0,2024,urb_ctran
+BE,BE009C,Mons (greater city),monthly_transport_ticket,TT1080V,37.0,2024,urb_ctran
+BE,BE010C,Kortrijk (greater city),monthly_transport_ticket,TT1080V,49.0,2024,urb_ctran
+CH,CH003C,Geneva (greater city),public_transport_usage,TT1010V,49.82,2024,urb_ctran
+CH,CH004C,Basel (greater city),public_transport_usage,TT1010V,45.0,2024,urb_ctran
+CH,CH005C,Lausanne (greater city),public_transport_usage,TT1010V,47.13,2024,urb_ctran
+CH,CH006C,Lucerne (greater city),public_transport_usage,TT1010V,34.97,2024,urb_ctran
+CH,CH007C,Winterthur,public_transport_usage,TT1010V,40.06,2024,urb_ctran
+CH,CH010C,Biel/Bienne (greater city),public_transport_usage,TT1010V,32.35,2024,urb_ctran
+FI,FI006C,Vantaa/Vanda,monthly_transport_ticket,TT1080V,110.4,2024,urb_ctran
+HU,HU005C,Debrecen,monthly_transport_ticket,TT1080V,21.13,2024,urb_ctran
+HU,HU006C,Szeged,monthly_transport_ticket,TT1080V,24.29,2024,urb_ctran
+HU,HU007C,Gyõr,monthly_transport_ticket,TT1080V,14.17,2024,urb_ctran
+HU,HU008C,Kecskemét,monthly_transport_ticket,TT1080V,12.65,2024,urb_ctran
+CH,CH002C,Zurich (greater city),public_transport_usage,TT1010V,60.41,2024,urb_ctran
+HU,HU019C,Sopron,monthly_transport_ticket,TT1080V,17.46,2024,urb_ctran
+LT,LT003C,Panevėžys,monthly_transport_ticket,TT1080V,27.8,2024,urb_ctran
+LT,LT004C,Alytus,monthly_transport_ticket,TT1080V,25.0,2024,urb_ctran
+LT,LT005C,Klaipėda,monthly_transport_ticket,TT1080V,28.0,2024,urb_ctran
+LT,LT006C,Šiauliai,monthly_transport_ticket,TT1080V,27.5,2024,urb_ctran
+FI,FI003C,Turku/Åbo,monthly_transport_ticket,TT1080V,57.0,2024,urb_ctran
+FI,FI004C,Oulu/Uleåborg,monthly_transport_ticket,TT1080V,62.0,2024,urb_ctran
+FI,FI005C,Espoo/Esbo,monthly_transport_ticket,TT1080V,99.4,2024,urb_ctran
+HU,HU004C,Pécs,monthly_transport_ticket,TT1080V,18.47,2024,urb_ctran
+HR,HR004C,Osijek,monthly_transport_ticket,TT1080V,36.0,2024,urb_ctran
+HR,HR005C,Split (greater city),monthly_transport_ticket,TT1080V,60.0,2024,urb_ctran
+HR,HR007C,Zadar,monthly_transport_ticket,TT1080V,40.0,2024,urb_ctran
+LV,LV001C,Rīga,monthly_transport_ticket,TT1080V,30.0,2024,urb_ctran
+HU,HU009C,Székesfehérvár,monthly_transport_ticket,TT1080V,17.71,2024,urb_ctran
+HU,HU010C,Szombathely,monthly_transport_ticket,TT1080V,15.92,2024,urb_ctran
+HU,HU012C,Tatabánya,monthly_transport_ticket,TT1080V,16.45,2024,urb_ctran
+LT,LT002C,Kaunas,monthly_transport_ticket,TT1080V,28.0,2024,urb_ctran
+BE,BE012C,Mechelen,monthly_transport_ticket,TT1080V,49.0,2024,urb_ctran
+BE,BE013C,Mouscron,monthly_transport_ticket,TT1080V,37.0,2024,urb_ctran
+BE,BE014C,La Louvière (greater city),monthly_transport_ticket,TT1080V,37.0,2024,urb_ctran
+BE,BE015C,Verviers (greater city),monthly_transport_ticket,TT1080V,37.0,2024,urb_ctran
+HU,HU001C,Budapest (greater city),monthly_transport_ticket,TT1080V,22.65,2024,urb_ctran
+HU,HU002C,Miskolc,monthly_transport_ticket,TT1080V,16.19,2024,urb_ctran
+HU,HU003C,Nyíregyháza,monthly_transport_ticket,TT1080V,17.71,2024,urb_ctran
+LV,LV002C,Liepāja,monthly_transport_ticket,TT1080V,30.0,2024,urb_ctran
+LV,LV004C,Daugavpils,monthly_transport_ticket,TT1080V,45.0,2024,urb_ctran
+LT,LT001C,Vilnius,monthly_transport_ticket,TT1080V,29.0,2024,urb_ctran
+CH,CH006C,Lucerne (greater city),monthly_transport_ticket,TT1080V,87.0,2024,urb_ctran
+CH,CH007C,Winterthur,monthly_transport_ticket,TT1080V,91.0,2024,urb_ctran
+CH,CH008C,Lugano (greater city),monthly_transport_ticket,TT1080V,81.0,2024,urb_ctran
+CH,CH009C,St. Gallen (greater city),monthly_transport_ticket,TT1080V,76.0,2024,urb_ctran
+FI,FI007C,Lahti/Lahtis,monthly_transport_ticket,TT1080V,62.0,2024,urb_ctran
+FI,FI008C,Kuopio,monthly_transport_ticket,TT1080V,61.5,2024,urb_ctran
+FI,FI009C,Jyväskylä,monthly_transport_ticket,TT1080V,58.0,2024,urb_ctran
+CH,CH001C,Bern (greater city),monthly_transport_ticket,TT1080V,86.0,2024,urb_ctran
+CH,CH005C,Lausanne (greater city),monthly_transport_ticket,TT1080V,82.0,2024,urb_ctran
+SI,SI001C,Ljubljana,monthly_transport_ticket,TT1080V,37.0,2024,urb_ctran
+SI,SI002C,Maribor,monthly_transport_ticket,TT1080V,36.0,2024,urb_ctran
+FI,FI001C,Helsinki/Helsingfors,monthly_transport_ticket,TT1080V,66.6,2024,urb_ctran
+FI,FI002C,Tampere/Tammerfors,monthly_transport_ticket,TT1080V,59.0,2024,urb_ctran
+CH,CH010C,Biel/Bienne (greater city),monthly_transport_ticket,TT1080V,82.0,2024,urb_ctran
+CH,CH002C,Zurich (greater city),monthly_transport_ticket,TT1080V,91.0,2024,urb_ctran
+CH,CH003C,Geneva (greater city),monthly_transport_ticket,TT1080V,73.0,2024,urb_ctran
+CH,CH004C,Basel (greater city),monthly_transport_ticket,TT1080V,90.0,2024,urb_ctran
+BE,BE011C,Oostende (greater city),population,DE1001V,72892.0,2024,urb_cpop1
+BE,BE012C,Mechelen,population,DE1001V,89467.0,2024,urb_cpop1
+BE,BE013C,Mouscron,population,DE1001V,60906.0,2024,urb_cpop1
+BE,BE014C,La Louvière (greater city),population,DE1001V,105519.0,2024,urb_cpop1
+BE,BE015C,Verviers (greater city),population,DE1001V,71540.0,2024,urb_cpop1
+BG,BG001C,Sofia,population,DE1001V,1286965.0,2024,urb_cpop1
+BG,BG002C,Plovdiv,population,DE1001V,325485.0,2024,urb_cpop1
+BG,BG003C,Varna,population,DE1001V,323386.0,2024,urb_cpop1
+BE,BE003C,Gent,population,DE1001V,270133.0,2024,urb_cpop1
+BE,BE004C,Charleroi (greater city),population,DE1001V,241219.0,2024,urb_cpop1
+BE,BE005C,Liège (greater city),population,DE1001V,410032.0,2024,urb_cpop1
+BE,BE006C,Brugge,population,DE1001V,120142.0,2024,urb_cpop1
+BE,BE008C,Leuven,population,DE1001V,103358.0,2024,urb_cpop1
+BE,BE009C,Mons (greater city),population,DE1001V,157957.0,2024,urb_cpop1
+BE,BE010C,Kortrijk (greater city),population,DE1001V,80207.0,2024,urb_cpop1
+BE,BE,Belgium,population,DE1001V,11817096.0,2024,urb_cpop1
+BE,BE001C,Bruxelles/Brussel (greater city),population,DE1001V,1264371.0,2024,urb_cpop1
+BE,BE002C,Antwerpen (greater city),population,DE1001V,547794.0,2024,urb_cpop1
+DE,DE024C,Trier,population,DE1001V,103986.0,2024,urb_cpop1
+DE,DE002C,Hamburg,population,DE1001V,1851596.0,2024,urb_cpop1
+BE,BE007C,Namur,population,DE1001V,115607.0,2024,urb_cpop1
+FR,FR024C,Angers (greater city),unemployment_rate,EC1020I,14.15,2023,urb_clma
+FR,FR,France,unemployment_rate,EC1020I,11.32,2023,urb_clma
+HU,HU011C,Szolnok,monthly_transport_ticket,TT1080V,17.8,2023,urb_ctran
+HU,HU013C,Veszprém,monthly_transport_ticket,TT1080V,22.91,2023,urb_ctran
+HU,HU014C,Békéscsaba,monthly_transport_ticket,TT1080V,16.44,2023,urb_ctran
+HU,HU015C,Kaposvár,monthly_transport_ticket,TT1080V,23.3,2023,urb_ctran
+HR,HR003C,Slavonski Brod,monthly_transport_ticket,TT1080V,46.0,2023,urb_ctran
+HR,HR006C,Pula/Pola,monthly_transport_ticket,TT1080V,38.0,2023,urb_ctran
+NO,NO001C,Oslo (greater city),population,DE1001V,699827.0,2023,urb_cpop1
+NO,NO002C,Bergen,population,DE1001V,144699.0,2023,urb_cpop1
+HU,HU016C,Eger,population,DE1001V,50018.0,2023,urb_cpop1
+EE,EE002C,Tartu,monthly_transport_ticket,TT1080V,28.0,2023,urb_ctran
+NO,NO003C,Trondheim,population,DE1001V,286930.0,2023,urb_cpop1
+HU,HU013C,Veszprém,population,DE1001V,56777.0,2023,urb_cpop1
+HU,HU011C,Szolnok,population,DE1001V,67126.0,2023,urb_cpop1
+HU,HU014C,Békéscsaba,population,DE1001V,55091.0,2023,urb_cpop1
+HU,HU015C,Kaposvár,population,DE1001V,59270.0,2023,urb_cpop1
+CH,CH005C,Lausanne (greater city),annual_rent_per_m2,SA1049V,232.6,2023,urb_clivcon
+CH,CH006C,Lucerne (greater city),annual_rent_per_m2,SA1049V,203.8,2023,urb_clivcon
+CH,CH007C,Winterthur,annual_rent_per_m2,SA1049V,214.8,2023,urb_clivcon
+HR,HR003C,Slavonski Brod,annual_rent_per_m2,SA1049V,70.0,2023,urb_clivcon
+CH,CH010C,Biel/Bienne (greater city),annual_rent_per_m2,SA1049V,176.5,2023,urb_clivcon
+CH,CH003C,Geneva (greater city),annual_rent_per_m2,SA1049V,243.3,2023,urb_clivcon
+CH,CH004C,Basel (greater city),annual_rent_per_m2,SA1049V,221.6,2023,urb_clivcon
+CH,CH002C,Zurich (greater city),annual_rent_per_m2,SA1049V,256.8,2023,urb_clivcon
+CH,CH008C,Lugano (greater city),annual_rent_per_m2,SA1049V,183.6,2023,urb_clivcon
+CH,CH009C,St. Gallen (greater city),annual_rent_per_m2,SA1049V,179.5,2023,urb_clivcon
+CH,CH001C,Bern (greater city),annual_rent_per_m2,SA1049V,212.5,2023,urb_clivcon
+HR,HR006C,Pula/Pola,annual_rent_per_m2,SA1049V,110.0,2023,urb_clivcon
+LV,LV001C,Rīga,annual_rent_per_m2,SA1049V,69.24,2023,urb_clivcon
+ES,ES098C,San Vicente del Raspeig/Sant Vicent del Raspeig,annual_rent_per_m2,SA1049V,76.02,2023,urb_clivcon
+ES,ES088C,Cuenca,annual_rent_per_m2,SA1049V,69.2,2023,urb_clivcon
+LV,LV004C,Daugavpils,annual_rent_per_m2,SA1049V,54.03,2023,urb_clivcon
+ES,ES094C,Torrelavega,annual_rent_per_m2,SA1049V,74.17,2023,urb_clivcon
+ES,ES080C,Marbella,annual_rent_per_m2,SA1049V,121.14,2023,urb_clivcon
+ES,ES084C,Ávila,annual_rent_per_m2,SA1049V,70.29,2023,urb_clivcon
+ES,ES085C,Benalmádena,annual_rent_per_m2,SA1049V,122.09,2023,urb_clivcon
+HR,HR003C,Slavonski Brod,population,DE1001V,48143.0,2023,urb_cpop1
+HR,HR006C,Pula/Pola,population,DE1001V,51153.0,2023,urb_cpop1
+FR,FR075C,Vannes,population,DE1001V,55790.0,2023,urb_cpop1
+FR,FR076C,"Annemasse-Geneva, FR part (greater city)",population,DE1001V,78548.0,2023,urb_cpop1
+FR,FR077C,"Saint-Louis-Bâle, FR part (greater city)",population,DE1001V,35001.0,2023,urb_cpop1
+FR,FR078C,Ajaccio,population,DE1001V,76320.0,2023,urb_cpop1
+FR,FR079C,Roanne (greater city),population,DE1001V,53393.0,2023,urb_cpop1
+FR,FR051C,Mantes-la-Jolie (greater city),population,DE1001V,90126.0,2023,urb_cpop1
+FR,FR052C,Douai (greater city),population,DE1001V,86523.0,2023,urb_cpop1
+FR,FR053C,Melun (greater city),population,DE1001V,104092.0,2023,urb_cpop1
+FR,FR043C,Avignon (greater city),population,DE1001V,110574.0,2023,urb_cpop1
+FR,FR044C,Troyes (greater city),population,DE1001V,107852.0,2023,urb_cpop1
+FR,FR045C,Valenciennes (greater city),population,DE1001V,105805.0,2023,urb_cpop1
+FR,FR063C,Montbéliard (greater city),population,DE1001V,71085.0,2023,urb_cpop1
+FR,FR064C,Arras (greater city),population,DE1001V,70731.0,2023,urb_cpop1
+FR,FR048C,Valence (greater city),population,DE1001V,95685.0,2023,urb_cpop1
+FR,FR049C,Fréjus (greater city),population,DE1001V,96832.0,2023,urb_cpop1
+FR,FR050C,Chambéry (greater city),population,DE1001V,101736.0,2023,urb_cpop1
+FR,FR041C,La Seyne-sur-Mer (greater city),population,DE1001V,119379.0,2023,urb_cpop1
+FR,FR042C,Pau (greater city),population,DE1001V,119108.0,2023,urb_cpop1
+FR,FR019C,Nancy (greater city),population,DE1001V,218068.0,2023,urb_cpop1
+FR,FR020C,Dijon (greater city),population,DE1001V,204766.0,2023,urb_cpop1
+FR,FR021C,Clermont-Ferrand (greater city),population,DE1001V,198479.0,2023,urb_cpop1
+FR,FR011C,Montpellier (greater city),population,DE1001V,374347.0,2023,urb_cpop1
+FR,FR012C,Grenoble (greater city),population,DE1001V,329369.0,2023,urb_cpop1
+FR,FR013C,Tours (greater city),population,DE1001V,248815.0,2023,urb_cpop1
+FR,FR030C,Saint-Denis,population,DE1001V,155634.0,2023,urb_cpop1
+FR,FR031C,Caen (greater city),population,DE1001V,162608.0,2023,urb_cpop1
+FR,FR016C,Rennes (greater city),population,DE1001V,284078.0,2023,urb_cpop1
+FR,FR017C,Reims (greater city),population,DE1001V,205520.0,2023,urb_cpop1
+FR,FR018C,Orléans (greater city),population,DE1001V,231687.0,2023,urb_cpop1
+IT,IT045C,Massa,population,DE1001V,66288.0,2023,urb_cpop1
+FR,FR074C,Saint-Louis,population,DE1001V,54941.0,2023,urb_cpop1
+FR,FR009C,Strasbourg (greater city),population,DE1001V,432797.0,2023,urb_cpop1
+FR,FR010C,Rouen (greater city),population,DE1001V,323480.0,2023,urb_cpop1
+FR,FR080C,"Irun-Hendaye, FR part",population,DE1001V,18102.0,2023,urb_cpop1
+FR,FR081C,Tarbes (greater city),population,DE1001V,49635.0,2023,urb_cpop1
+ES,ES088C,Cuenca,population,DE1001V,53630.0,2023,urb_cpop1
+FR,FR071C,Belfort (greater city),population,DE1001V,59182.0,2023,urb_cpop1
+FR,FR072C,Cayenne,population,DE1001V,62675.0,2023,urb_cpop1
+FR,FR056C,Cherbourg-en-Cotentin,population,DE1001V,78258.0,2023,urb_cpop1
+FR,FR057C,Béziers,population,DE1001V,81545.0,2023,urb_cpop1
+FR,FR058C,Chartres (greater city),population,DE1001V,75857.0,2023,urb_cpop1
+ES,ES080C,Marbella,population,DE1001V,156153.0,2023,urb_cpop1
+ES,ES098C,San Vicente del Raspeig/Sant Vicent del Raspeig,population,DE1001V,59964.0,2023,urb_cpop1
+ES,ES084C,Ávila,population,DE1001V,58548.0,2023,urb_cpop1
+ES,ES085C,Benalmádena,population,DE1001V,76318.0,2023,urb_cpop1
+FR,FR054C,La Rochelle (greater city),population,DE1001V,87653.0,2023,urb_cpop1
+FR,FR055C,Lorient (greater city),population,DE1001V,81592.0,2023,urb_cpop1
+FR,FR040C,Bayonne (greater city),population,DE1001V,123783.0,2023,urb_cpop1
+FR,FR046C,Fort-de-France (greater city),population,DE1001V,134384.0,2023,urb_cpop1
+FR,FR047C,Poitiers (greater city),population,DE1001V,107580.0,2023,urb_cpop1
+FR,FR068C,Bourges,population,DE1001V,64186.0,2023,urb_cpop1
+FR,FR069C,Saint-Brieuc (greater city),population,DE1001V,72260.0,2023,urb_cpop1
+FR,FR070C,Quimper,population,DE1001V,64385.0,2023,urb_cpop1
+FR,FR022C,Le Havre (greater city),population,DE1001V,190896.0,2023,urb_cpop1
+FR,FR023C,Saint-Étienne (greater city),population,DE1001V,190150.0,2023,urb_cpop1
+FR,FR008C,Nice (greater city),population,DE1001V,482317.0,2023,urb_cpop1
+FR,FR059C,Creil (greater city),population,DE1001V,78945.0,2023,urb_cpop1
+FR,FR060C,Boulogne-sur-Mer (greater city),population,DE1001V,73333.0,2023,urb_cpop1
+FR,FR061C,Calais (greater city),population,DE1001V,72239.0,2023,urb_cpop1
+FR,FR014C,Cannes-Antibes (greater city),population,DE1001V,244824.0,2023,urb_cpop1
+FR,FR015C,Toulon (greater city),population,DE1001V,229311.0,2023,urb_cpop1
+FR,FR065C,Colmar (greater city),population,DE1001V,73169.0,2023,urb_cpop1
+FR,FR066C,Martigues (greater city),population,DE1001V,64100.0,2023,urb_cpop1
+FR,FR067C,Meaux (greater city),population,DE1001V,67478.0,2023,urb_cpop1
+IT,IT083C,Trapani,unemployment_rate,EC1020I,14.33,2023,urb_clma
+IT,IT084C,Ragusa,unemployment_rate,EC1020I,8.62,2023,urb_clma
+IT,IT085C,Andria,unemployment_rate,EC1020I,11.16,2023,urb_clma
+IT,IT075C,Latina,unemployment_rate,EC1020I,8.53,2023,urb_clma
+IT,IT076C,Vicenza,unemployment_rate,EC1020I,5.6,2023,urb_clma
+IT,IT077C,Terni,unemployment_rate,EC1020I,7.61,2023,urb_clma
+IT,IT086C,Trani,unemployment_rate,EC1020I,11.45,2023,urb_clma
+IT,IT087C,L'Aquila,unemployment_rate,EC1020I,7.72,2023,urb_clma
+IT,IT088C,Vigevano,unemployment_rate,EC1020I,7.27,2023,urb_clma
+IT,IT089C,Guidonia Montecelio (greater city),unemployment_rate,EC1020I,9.38,2023,urb_clma
+IT,IT090C,Tivoli,unemployment_rate,EC1020I,10.19,2023,urb_clma
+IT,IT051C,Pordenone,unemployment_rate,EC1020I,6.78,2023,urb_clma
+IT,IT052C,Lecco,unemployment_rate,EC1020I,4.8,2023,urb_clma
+IT,IT053C,Altamura,unemployment_rate,EC1020I,7.99,2023,urb_clma
+IT,IT070C,Ferrara,unemployment_rate,EC1020I,6.11,2023,urb_clma
+IT,IT071C,Rimini,unemployment_rate,EC1020I,7.08,2023,urb_clma
+IT,IT072C,Siracusa,unemployment_rate,EC1020I,15.27,2023,urb_clma
+IT,IT073C,Bergamo (greater city),unemployment_rate,EC1020I,5.44,2023,urb_clma
+IT,IT074C,Forlì,unemployment_rate,EC1020I,4.59,2023,urb_clma
+IT,IT042C,Varese,unemployment_rate,EC1020I,8.27,2023,urb_clma
+IT,IT043C,Asti,unemployment_rate,EC1020I,7.19,2023,urb_clma
+IT,IT044C,Pavia,unemployment_rate,EC1020I,7.1,2023,urb_clma
+IT,IT062C,Anzio (greater city),unemployment_rate,EC1020I,10.84,2023,urb_clma
+IT,IT063C,Sassuolo,unemployment_rate,EC1020I,5.79,2023,urb_clma
+IT,IT064C,Messina,unemployment_rate,EC1020I,13.29,2023,urb_clma
+IT,IT065C,Prato,unemployment_rate,EC1020I,5.32,2023,urb_clma
+IT,IT066C,Parma,unemployment_rate,EC1020I,5.22,2023,urb_clma
+IT,IT054C,Bitonto,unemployment_rate,EC1020I,11.37,2023,urb_clma
+IT,IT055C,Molfetta,unemployment_rate,EC1020I,8.96,2023,urb_clma
+IT,IT056C,Battipaglia,unemployment_rate,EC1020I,10.62,2023,urb_clma
+IT,IT057C,Bisceglie,unemployment_rate,EC1020I,9.46,2023,urb_clma
+IT,IT058C,Carpi,unemployment_rate,EC1020I,5.91,2023,urb_clma
+IT,IT018C,Pescara (greater city),unemployment_rate,EC1020I,9.89,2023,urb_clma
+IT,IT019C,Campobasso,unemployment_rate,EC1020I,9.93,2023,urb_clma
+IT,IT020C,Caserta  (greater city),unemployment_rate,EC1020I,10.7,2023,urb_clma
+IT,IT037C,Barletta,unemployment_rate,EC1020I,10.61,2023,urb_clma
+IT,IT038C,Pesaro,unemployment_rate,EC1020I,5.45,2023,urb_clma
+IT,IT039C,Como,unemployment_rate,EC1020I,7.92,2023,urb_clma
+IT,IT040C,Pisa,unemployment_rate,EC1020I,7.7,2023,urb_clma
+IT,IT041C,Treviso,unemployment_rate,EC1020I,5.92,2023,urb_clma
+IT,IT010C,Catania (greater city),unemployment_rate,EC1020I,16.71,2023,urb_clma
+IT,IT011C,Venezia,unemployment_rate,EC1020I,5.39,2023,urb_clma
+IT,IT012C,Verona,unemployment_rate,EC1020I,5.35,2023,urb_clma
+IT,IT029C,Modena,unemployment_rate,EC1020I,5.66,2023,urb_clma
+IT,IT030C,Foggia,unemployment_rate,EC1020I,11.83,2023,urb_clma
+IT,IT031C,Salerno,unemployment_rate,EC1020I,10.46,2023,urb_clma
+IT,IT032C,Piacenza,unemployment_rate,EC1020I,4.4,2023,urb_clma
+IT,IT033C,Bolzano,unemployment_rate,EC1020I,3.54,2023,urb_clma
+IT,IT067C,Livorno,unemployment_rate,EC1020I,7.0,2023,urb_clma
+IT,IT068C,Reggio nell'Emilia,unemployment_rate,EC1020I,5.9,2023,urb_clma
+IT,IT069C,Ravenna,unemployment_rate,EC1020I,6.01,2023,urb_clma
+IT,IT021C,Taranto,unemployment_rate,EC1020I,13.12,2023,urb_clma
+IT,IT022C,Potenza,unemployment_rate,EC1020I,11.07,2023,urb_clma
+IT,IT023C,Catanzaro,unemployment_rate,EC1020I,12.05,2023,urb_clma
+IT,IT024C,Reggio di Calabria,unemployment_rate,EC1020I,14.32,2023,urb_clma
+IT,IT025C,Sassari,unemployment_rate,EC1020I,11.5,2023,urb_clma
+IT,IT059C,Cerignola,unemployment_rate,EC1020I,11.63,2023,urb_clma
+IT,IT060C,Gela,unemployment_rate,EC1020I,12.38,2023,urb_clma
+IT,IT061C,Bagheria,unemployment_rate,EC1020I,17.01,2023,urb_clma
+IT,IT078C,Novara,unemployment_rate,EC1020I,6.44,2023,urb_clma
+IT,IT079C,Alessandria,unemployment_rate,EC1020I,7.65,2023,urb_clma
+IT,IT080C,Arezzo,unemployment_rate,EC1020I,5.85,2023,urb_clma
+IT,IT081C,Grosseto,unemployment_rate,EC1020I,6.72,2023,urb_clma
+IT,IT082C,Brindisi,unemployment_rate,EC1020I,14.15,2023,urb_clma
+FR,FR075C,Vannes,unemployment_rate,EC1020I,11.36,2023,urb_clma
+FR,FR076C,"Annemasse-Geneva, FR part (greater city)",unemployment_rate,EC1020I,15.01,2023,urb_clma
+FR,FR077C,"Saint-Louis-Bâle, FR part (greater city)",unemployment_rate,EC1020I,15.76,2023,urb_clma
+IT,IT005C,Palermo,unemployment_rate,EC1020I,14.94,2023,urb_clma
+IT,IT006C,Genova,unemployment_rate,EC1020I,6.96,2023,urb_clma
+IT,IT007C,Firenze,unemployment_rate,EC1020I,5.79,2023,urb_clma
+IT,IT008C,Bari,unemployment_rate,EC1020I,10.14,2023,urb_clma
+IT,IT009C,Bologna,unemployment_rate,EC1020I,6.1,2023,urb_clma
+FR,FR066C,Martigues (greater city),unemployment_rate,EC1020I,12.86,2023,urb_clma
+FR,FR067C,Meaux (greater city),unemployment_rate,EC1020I,13.64,2023,urb_clma
+FR,FR068C,Bourges,unemployment_rate,EC1020I,13.79,2023,urb_clma
+HR,HR006C,Pula/Pola,unemployment_rate,EC1020I,3.6,2023,urb_clma
+IT,IT,Italy,unemployment_rate,EC1020I,7.77,2023,urb_clma
+IT,IT001C,Roma,unemployment_rate,EC1020I,8.38,2023,urb_clma
+IT,IT034C,Udine,unemployment_rate,EC1020I,5.93,2023,urb_clma
+IT,IT035C,La Spezia,unemployment_rate,EC1020I,7.24,2023,urb_clma
+IT,IT036C,Lecce,unemployment_rate,EC1020I,11.35,2023,urb_clma
+FR,FR078C,Ajaccio,unemployment_rate,EC1020I,6.91,2023,urb_clma
+FR,FR079C,Roanne (greater city),unemployment_rate,EC1020I,15.28,2023,urb_clma
+FR,FR080C,"Irun-Hendaye, FR part",unemployment_rate,EC1020I,13.22,2023,urb_clma
+FR,FR081C,Tarbes (greater city),unemployment_rate,EC1020I,17.33,2023,urb_clma
+IT,IT026C,Cagliari (greater city),unemployment_rate,EC1020I,11.64,2023,urb_clma
+IT,IT027C,Padova,unemployment_rate,EC1020I,6.94,2023,urb_clma
+IT,IT028C,Brescia,unemployment_rate,EC1020I,5.74,2023,urb_clma
+IT,IT046C,Cosenza (greater city),unemployment_rate,EC1020I,11.95,2023,urb_clma
+IT,IT047C,Savona,unemployment_rate,EC1020I,6.52,2023,urb_clma
+IT,IT048C,Matera,unemployment_rate,EC1020I,8.32,2023,urb_clma
+IT,IT049C,Acireale (greater city),unemployment_rate,EC1020I,15.62,2023,urb_clma
+IT,IT050C,Avellino,unemployment_rate,EC1020I,10.53,2023,urb_clma
+FR,FR041C,La Seyne-sur-Mer (greater city),unemployment_rate,EC1020I,13.01,2023,urb_clma
+FR,FR042C,Pau (greater city),unemployment_rate,EC1020I,14.34,2023,urb_clma
+FR,FR043C,Avignon (greater city),unemployment_rate,EC1020I,19.26,2023,urb_clma
+FR,FR060C,Boulogne-sur-Mer (greater city),unemployment_rate,EC1020I,18.66,2023,urb_clma
+FR,FR061C,Calais (greater city),unemployment_rate,EC1020I,21.54,2023,urb_clma
+FR,FR063C,Montbéliard (greater city),unemployment_rate,EC1020I,19.85,2023,urb_clma
+FR,FR033C,Aix-en-Provence,unemployment_rate,EC1020I,11.06,2023,urb_clma
+FR,FR034C,Brest,unemployment_rate,EC1020I,13.41,2023,urb_clma
+FR,FR035C,Amiens (greater city),unemployment_rate,EC1020I,18.13,2023,urb_clma
+FR,FR052C,Douai (greater city),unemployment_rate,EC1020I,19.98,2023,urb_clma
+FR,FR053C,Melun (greater city),unemployment_rate,EC1020I,14.28,2023,urb_clma
+FR,FR054C,La Rochelle (greater city),unemployment_rate,EC1020I,13.67,2023,urb_clma
+FR,FR055C,Lorient (greater city),unemployment_rate,EC1020I,13.33,2023,urb_clma
+FR,FR056C,Cherbourg-en-Cotentin,unemployment_rate,EC1020I,10.99,2023,urb_clma
+IT,IT002C,Milano (greater city),unemployment_rate,EC1020I,5.6,2023,urb_clma
+IT,IT003C,Napoli (greater city),unemployment_rate,EC1020I,13.4,2023,urb_clma
+IT,IT004C,Torino,unemployment_rate,EC1020I,8.23,2023,urb_clma
+FR,FR044C,Troyes (greater city),unemployment_rate,EC1020I,18.73,2023,urb_clma
+FR,FR045C,Valenciennes (greater city),unemployment_rate,EC1020I,18.38,2023,urb_clma
+FR,FR046C,Fort-de-France (greater city),unemployment_rate,EC1020I,17.69,2023,urb_clma
+FR,FR047C,Poitiers (greater city),unemployment_rate,EC1020I,14.7,2023,urb_clma
+FR,FR048C,Valence (greater city),unemployment_rate,EC1020I,13.77,2023,urb_clma
+HR,HR003C,Slavonski Brod,unemployment_rate,EC1020I,8.19,2023,urb_clma
+IT,IT013C,Cremona,unemployment_rate,EC1020I,5.45,2023,urb_clma
+IT,IT014C,Trento,unemployment_rate,EC1020I,5.19,2023,urb_clma
+IT,IT015C,Trieste,unemployment_rate,EC1020I,6.99,2023,urb_clma
+IT,IT016C,Perugia,unemployment_rate,EC1020I,6.38,2023,urb_clma
+IT,IT017C,Ancona,unemployment_rate,EC1020I,6.79,2023,urb_clma
+FR,FR035C,Amiens (greater city),population,DE1001V,150124.0,2023,urb_cpop1
+FR,FR036C,Dunkerque (greater city),population,DE1001V,127289.0,2023,urb_cpop1
+FR,FR037C,Perpignan (greater city),population,DE1001V,132081.0,2023,urb_cpop1
+FR,FR064C,Arras (greater city),unemployment_rate,EC1020I,14.46,2023,urb_clma
+FR,FR065C,Colmar (greater city),unemployment_rate,EC1020I,13.65,2023,urb_clma
+FR,FR027C,Metz (greater city),population,DE1001V,171597.0,2023,urb_cpop1
+FR,FR028C,Nîmes,population,DE1001V,151839.0,2023,urb_cpop1
+FR,FR029C,Le Mans (greater city),population,DE1001V,154370.0,2023,urb_cpop1
+FR,FR032C,Limoges (greater city),population,DE1001V,141279.0,2023,urb_cpop1
+FR,FR033C,Aix-en-Provence,population,DE1001V,149695.0,2023,urb_cpop1
+FR,FR034C,Brest,population,DE1001V,142346.0,2023,urb_cpop1
+FR,FR038C,Annecy (greater city),population,DE1001V,141408.0,2023,urb_cpop1
+FR,FR039C,Besançon,population,DE1001V,118489.0,2023,urb_cpop1
+FR,FR024C,Angers (greater city),population,DE1001V,213475.0,2023,urb_cpop1
+FR,FR025C,Mulhouse (greater city),population,DE1001V,178173.0,2023,urb_cpop1
+FR,FR026C,Lens (greater city),population,DE1001V,178927.0,2023,urb_cpop1
+FR,FR036C,Dunkerque (greater city),unemployment_rate,EC1020I,18.2,2023,urb_clma
+FR,FR037C,Perpignan (greater city),unemployment_rate,EC1020I,21.35,2023,urb_clma
+FR,FR038C,Annecy (greater city),unemployment_rate,EC1020I,8.65,2023,urb_clma
+FR,FR039C,Besançon,unemployment_rate,EC1020I,14.28,2023,urb_clma
+FR,FR040C,Bayonne (greater city),unemployment_rate,EC1020I,11.1,2023,urb_clma
+FR,FR025C,Mulhouse (greater city),unemployment_rate,EC1020I,18.56,2023,urb_clma
+FR,FR026C,Lens (greater city),unemployment_rate,EC1020I,18.94,2023,urb_clma
+FR,FR027C,Metz (greater city),unemployment_rate,EC1020I,14.05,2023,urb_clma
+FR,FR057C,Béziers,unemployment_rate,EC1020I,21.66,2023,urb_clma
+FR,FR058C,Chartres (greater city),unemployment_rate,EC1020I,13.08,2023,urb_clma
+FR,FR059C,Creil (greater city),unemployment_rate,EC1020I,20.58,2023,urb_clma
+FR,FR028C,Nîmes,unemployment_rate,EC1020I,17.67,2023,urb_clma
+FR,FR029C,Le Mans (greater city),unemployment_rate,EC1020I,16.0,2023,urb_clma
+FR,FR030C,Saint-Denis,unemployment_rate,EC1020I,24.93,2023,urb_clma
+FR,FR031C,Caen (greater city),unemployment_rate,EC1020I,15.07,2023,urb_clma
+FR,FR032C,Limoges (greater city),unemployment_rate,EC1020I,15.35,2023,urb_clma
+FR,FR049C,Fréjus (greater city),unemployment_rate,EC1020I,12.08,2023,urb_clma
+FR,FR050C,Chambéry (greater city),unemployment_rate,EC1020I,10.1,2023,urb_clma
+FR,FR051C,Mantes-la-Jolie (greater city),unemployment_rate,EC1020I,17.02,2023,urb_clma
+FR,FR069C,Saint-Brieuc (greater city),unemployment_rate,EC1020I,12.73,2023,urb_clma
+FR,FR070C,Quimper,unemployment_rate,EC1020I,12.51,2023,urb_clma
+FR,FR071C,Belfort (greater city),unemployment_rate,EC1020I,17.89,2023,urb_clma
+FR,FR072C,Cayenne,unemployment_rate,EC1020I,28.66,2023,urb_clma
+FR,FR074C,Saint-Louis,unemployment_rate,EC1020I,31.63,2023,urb_clma
+DE,DE114C,Salzgitter,population,DE1001V,104548.0,2023,urb_cpop1
+FR,FR001C,Paris (greater city),population,DE1001V,10159710.0,2023,urb_cpop1
+FR,FR002C,Lyon (greater city),population,DE1001V,1229077.0,2023,urb_cpop1
+FR,FR003C,Lille (greater city),population,DE1001V,937308.0,2023,urb_cpop1
+FR,FR004C,Marseille (greater city),population,DE1001V,973249.0,2023,urb_cpop1
+FR,FR005C,Bordeaux (greater city),population,DE1001V,746217.0,2023,urb_cpop1
+ES,ES094C,Torrelavega,population,DE1001V,51232.0,2023,urb_cpop1
+FR,FR,France,population,DE1001V,68094280.0,2023,urb_cpop1
+FR,FR006C,Toulouse (greater city),population,DE1001V,716000.0,2023,urb_cpop1
+FR,FR007C,Nantes (greater city),population,DE1001V,479393.0,2023,urb_cpop1
+DE,DE078C,Passau,population,DE1001V,53907.0,2023,urb_cpop1
+DE,DE079C,Dessau-Roßlau,population,DE1001V,79655.0,2023,urb_cpop1
+DE,DE122C,Zwickau,population,DE1001V,87172.0,2023,urb_cpop1
+DE,DE048C,Villingen-Schwenningen,population,DE1001V,88213.0,2023,urb_cpop1
+DE,DE050C,Marburg,population,DE1001V,77845.0,2023,urb_cpop1
+DE,DE068C,Stralsund,population,DE1001V,59363.0,2023,urb_cpop1
+DE,DE053C,Brandenburg an der Havel,population,DE1001V,73609.0,2023,urb_cpop1
+DE,DE077C,Speyer,population,DE1001V,51368.0,2023,urb_cpop1
+DE,DE057C,Celle,population,DE1001V,70138.0,2023,urb_cpop1
+DE,DE045C,Wilhelmshaven,population,DE1001V,76089.0,2023,urb_cpop1
+DE,DE070C,Offenburg,population,DE1001V,61670.0,2023,urb_cpop1
+DE,DE028C,Weimar,population,DE1001V,65620.0,2023,urb_cpop1
+DE,DE062C,Fulda,population,DE1001V,69968.0,2023,urb_cpop1
+DE,DE069C,Friedrichshafen,population,DE1001V,62932.0,2023,urb_cpop1
+DE,DE075C,Greifswald,population,DE1001V,59691.0,2023,urb_cpop1
+DE,DE076C,Wetzlar,population,DE1001V,54187.0,2023,urb_cpop1
+DE,DE061C,Neubrandenburg,population,DE1001V,63989.0,2023,urb_cpop1
+BE,BE011C,Oostende (greater city),unemployment_rate,EC1020I,6.43,2023,urb_clma
+BE,BE012C,Mechelen,unemployment_rate,EC1020I,4.55,2023,urb_clma
+BE,BE013C,Mouscron,unemployment_rate,EC1020I,7.67,2023,urb_clma
+BE,BE014C,La Louvière (greater city),unemployment_rate,EC1020I,11.87,2023,urb_clma
+BE,BE015C,Verviers (greater city),unemployment_rate,EC1020I,13.89,2023,urb_clma
+BE,BE003C,Gent,unemployment_rate,EC1020I,5.36,2023,urb_clma
+BE,BE004C,Charleroi (greater city),unemployment_rate,EC1020I,14.32,2023,urb_clma
+BE,BE005C,Liège (greater city),unemployment_rate,EC1020I,13.01,2023,urb_clma
+BE,BE006C,Brugge,unemployment_rate,EC1020I,3.34,2023,urb_clma
+BE,BE007C,Namur,unemployment_rate,EC1020I,9.3,2023,urb_clma
+BE,BE008C,Leuven,unemployment_rate,EC1020I,4.01,2023,urb_clma
+BE,BE009C,Mons (greater city),unemployment_rate,EC1020I,10.62,2023,urb_clma
+BE,BE010C,Kortrijk (greater city),unemployment_rate,EC1020I,4.14,2023,urb_clma
+BE,BE,Belgium,unemployment_rate,EC1020I,5.57,2023,urb_clma
+BE,BE001C,Bruxelles/Brussel (greater city),unemployment_rate,EC1020I,11.72,2023,urb_clma
+BE,BE002C,Antwerpen (greater city),unemployment_rate,EC1020I,7.36,2023,urb_clma
+DE,DE035C,Mainz,unemployment_rate,EC1020I,6.3,2023,urb_clma
+DE,DE019C,Wiesbaden,unemployment_rate,EC1020I,5.1,2023,urb_clma
+FR,FR017C,Reims (greater city),unemployment_rate,EC1020I,15.42,2023,urb_clma
+FR,FR018C,Orléans (greater city),unemployment_rate,EC1020I,12.64,2023,urb_clma
+FR,FR019C,Nancy (greater city),unemployment_rate,EC1020I,14.18,2023,urb_clma
+FR,FR020C,Dijon (greater city),unemployment_rate,EC1020I,12.75,2023,urb_clma
+FR,FR021C,Clermont-Ferrand (greater city),unemployment_rate,EC1020I,13.84,2023,urb_clma
+FR,FR022C,Le Havre (greater city),unemployment_rate,EC1020I,17.73,2023,urb_clma
+FR,FR023C,Saint-Étienne (greater city),unemployment_rate,EC1020I,17.82,2023,urb_clma
+HU,HU018C,Zalaegerszeg,monthly_transport_ticket,TT1080V,16.76,2023,urb_ctran
+FR,FR012C,Grenoble (greater city),unemployment_rate,EC1020I,12.52,2023,urb_clma
+FR,FR013C,Tours (greater city),unemployment_rate,EC1020I,13.77,2023,urb_clma
+FR,FR014C,Cannes-Antibes (greater city),unemployment_rate,EC1020I,12.02,2023,urb_clma
+FR,FR015C,Toulon (greater city),unemployment_rate,EC1020I,12.75,2023,urb_clma
+FR,FR016C,Rennes (greater city),unemployment_rate,EC1020I,12.96,2023,urb_clma
+ES,ES088C,Cuenca,unemployment_rate,EC1020I,12.19,2023,urb_clma
+HU,HU016C,Eger,monthly_transport_ticket,TT1080V,13.75,2023,urb_ctran
+HU,HU017C,Dunaújváros,monthly_transport_ticket,TT1080V,18.33,2023,urb_ctran
+ES,ES080C,Marbella,unemployment_rate,EC1020I,13.51,2023,urb_clma
+ES,ES084C,Ávila,unemployment_rate,EC1020I,10.62,2023,urb_clma
+ES,ES085C,Benalmádena,unemployment_rate,EC1020I,15.61,2023,urb_clma
+HU,HU017C,Dunaújváros,population,DE1001V,41873.0,2023,urb_cpop1
+HU,HU018C,Zalaegerszeg,population,DE1001V,55433.0,2023,urb_cpop1
+FR,FR004C,Marseille (greater city),unemployment_rate,EC1020I,12.98,2023,urb_clma
+FR,FR005C,Bordeaux (greater city),unemployment_rate,EC1020I,11.37,2023,urb_clma
+FR,FR006C,Toulouse (greater city),unemployment_rate,EC1020I,13.22,2023,urb_clma
+FR,FR007C,Nantes (greater city),unemployment_rate,EC1020I,12.04,2023,urb_clma
+FR,FR008C,Nice (greater city),unemployment_rate,EC1020I,11.88,2023,urb_clma
+FR,FR009C,Strasbourg (greater city),unemployment_rate,EC1020I,14.54,2023,urb_clma
+FR,FR010C,Rouen (greater city),unemployment_rate,EC1020I,14.54,2023,urb_clma
+FR,FR011C,Montpellier (greater city),unemployment_rate,EC1020I,16.94,2023,urb_clma
+ES,ES098C,San Vicente del Raspeig/Sant Vicent del Raspeig,unemployment_rate,EC1020I,13.09,2023,urb_clma
+FR,FR001C,Paris (greater city),unemployment_rate,EC1020I,11.34,2023,urb_clma
+FR,FR002C,Lyon (greater city),unemployment_rate,EC1020I,11.86,2023,urb_clma
+FR,FR003C,Lille (greater city),unemployment_rate,EC1020I,14.81,2023,urb_clma
+ES,ES094C,Torrelavega,unemployment_rate,EC1020I,10.83,2023,urb_clma
+LV,LV003C,Jelgava,monthly_transport_ticket,TT1080V,42.0,2022,urb_ctran
+BG,BG007C,Vidin,monthly_transport_ticket,TT1080V,10.23,2022,urb_ctran
+BG,BG008C,Stara Zagora,monthly_transport_ticket,TT1080V,39.16,2022,urb_ctran
+BG,BG009C,Sliven,monthly_transport_ticket,TT1080V,41.41,2022,urb_ctran
+BG,BG010C,Dobrich,monthly_transport_ticket,TT1080V,18.32,2022,urb_ctran
+BG,BG011C,Shumen,monthly_transport_ticket,TT1080V,19.86,2022,urb_ctran
+BG,BG012C,Pernik,monthly_transport_ticket,TT1080V,28.12,2022,urb_ctran
+BG,BG013C,Yambol,monthly_transport_ticket,TT1080V,15.34,2022,urb_ctran
+BG,BG014C,Haskovo,monthly_transport_ticket,TT1080V,17.9,2022,urb_ctran
+BG,BG001C,Sofia,monthly_transport_ticket,TT1080V,32.38,2022,urb_ctran
+BG,BG002C,Plovdiv,monthly_transport_ticket,TT1080V,25.56,2022,urb_ctran
+BG,BG003C,Varna,monthly_transport_ticket,TT1080V,25.56,2022,urb_ctran
+BG,BG004C,Burgas,monthly_transport_ticket,TT1080V,30.68,2022,urb_ctran
+BG,BG005C,Pleven,monthly_transport_ticket,TT1080V,36.05,2022,urb_ctran
+BG,BG006C,Ruse,monthly_transport_ticket,TT1080V,49.09,2022,urb_ctran
+SK,SK004C,Nitra,population,DE1001V,77610.0,2022,urb_cpop1
+SK,SK005C,Prešov,population,DE1001V,83897.0,2022,urb_cpop1
+SK,SK006C,Žilina,population,DE1001V,81940.0,2022,urb_cpop1
+SK,SK007C,Trnava,population,DE1001V,63194.0,2022,urb_cpop1
+SK,SK008C,Trenčín,population,DE1001V,54458.0,2022,urb_cpop1
+SK,SK,Slovakia,population,DE1001V,5434712.0,2022,urb_cpop1
+SK,SK001C,Bratislava (greater city),population,DE1001V,475577.0,2022,urb_cpop1
+PL,PL045C,Stalowa Wola,population,DE1001V,55846.0,2022,urb_cpop1
+PL,PL046C,Tomaszów Mazowiecki,population,DE1001V,58089.0,2022,urb_cpop1
+PL,PL048C,Leszno,population,DE1001V,60642.0,2022,urb_cpop1
+PL,PL049C,Swidnica,population,DE1001V,53423.0,2022,urb_cpop1
+PL,PL050C,Zgierz,population,DE1001V,54012.0,2022,urb_cpop1
+PL,PL040C,Przemysl,population,DE1001V,56802.0,2022,urb_cpop1
+PL,PL036C,Ostrowiec Swietokrzyski,population,DE1001V,62980.0,2022,urb_cpop1
+PL,PL023C,Zory,population,DE1001V,61817.0,2022,urb_cpop1
+BG,BG011C,Shumen,unemployment_rate,EC1020I,5.13,2022,urb_clma
+BG,BG012C,Pernik,unemployment_rate,EC1020I,5.13,2022,urb_clma
+BG,BG013C,Yambol,unemployment_rate,EC1020I,5.13,2022,urb_clma
+BG,BG014C,Haskovo,unemployment_rate,EC1020I,5.13,2022,urb_clma
+BG,BG015C,Pazardzhik,unemployment_rate,EC1020I,5.13,2022,urb_clma
+BG,BG016C,Blagoevgrad,unemployment_rate,EC1020I,4.39,2022,urb_clma
+BG,BG017C,Veliko Tarnovo,unemployment_rate,EC1020I,4.35,2022,urb_clma
+BG,BG018C,Vratsa,unemployment_rate,EC1020I,4.39,2022,urb_clma
+BG,BG003C,Varna,unemployment_rate,EC1020I,2.11,2022,urb_clma
+BG,BG004C,Burgas,unemployment_rate,EC1020I,2.11,2022,urb_clma
+BG,BG005C,Pleven,unemployment_rate,EC1020I,5.13,2022,urb_clma
+BG,BG006C,Ruse,unemployment_rate,EC1020I,2.11,2022,urb_clma
+BG,BG007C,Vidin,unemployment_rate,EC1020I,4.35,2022,urb_clma
+BG,BG008C,Stara Zagora,unemployment_rate,EC1020I,2.11,2022,urb_clma
+BG,BG009C,Sliven,unemployment_rate,EC1020I,5.13,2022,urb_clma
+BG,BG010C,Dobrich,unemployment_rate,EC1020I,5.13,2022,urb_clma
+BG,BG001C,Sofia,unemployment_rate,EC1020I,2.11,2022,urb_clma
+BG,BG002C,Plovdiv,unemployment_rate,EC1020I,2.11,2022,urb_clma
+DE,DE105C,Bremerhaven,unemployment_rate,EC1020I,8.77,2022,urb_clma
+FR,FR073C,Hayange,unemployment_rate,EC1020I,13.88,2022,urb_clma
+IT,IT045C,Massa,unemployment_rate,EC1020I,7.96,2022,urb_clma
+HU,HU005C,Debrecen,unemployment_rate,EC1020I,4.38,2022,urb_clma
+HU,HU006C,Szeged,unemployment_rate,EC1020I,1.83,2022,urb_clma
+HU,HU007C,Gyõr,unemployment_rate,EC1020I,1.35,2022,urb_clma
+HU,HU008C,Kecskemét,unemployment_rate,EC1020I,3.48,2022,urb_clma
+HU,HU009C,Székesfehérvár,unemployment_rate,EC1020I,2.15,2022,urb_clma
+HU,HU010C,Szombathely,unemployment_rate,EC1020I,2.64,2022,urb_clma
+HU,HU011C,Szolnok,unemployment_rate,EC1020I,4.71,2022,urb_clma
+HU,HU012C,Tatabánya,unemployment_rate,EC1020I,2.45,2022,urb_clma
+LT,LT003C,Panevėžys,unemployment_rate,EC1020I,6.66,2022,urb_clma
+HU,HU001C,Budapest (greater city),unemployment_rate,EC1020I,1.85,2022,urb_clma
+HU,HU002C,Miskolc,unemployment_rate,EC1020I,5.5,2022,urb_clma
+HU,HU003C,Nyíregyháza,unemployment_rate,EC1020I,3.28,2022,urb_clma
+HU,HU004C,Pécs,unemployment_rate,EC1020I,2.97,2022,urb_clma
+HU,HU013C,Veszprém,unemployment_rate,EC1020I,2.06,2022,urb_clma
+HU,HU014C,Békéscsaba,unemployment_rate,EC1020I,4.99,2022,urb_clma
+HU,HU015C,Kaposvár,unemployment_rate,EC1020I,4.03,2022,urb_clma
+HU,HU016C,Eger,unemployment_rate,EC1020I,4.41,2022,urb_clma
+HU,HU017C,Dunaújváros,unemployment_rate,EC1020I,4.87,2022,urb_clma
+HU,HU018C,Zalaegerszeg,unemployment_rate,EC1020I,3.21,2022,urb_clma
+HU,HU019C,Sopron,unemployment_rate,EC1020I,1.29,2022,urb_clma
+FI,FI001C,Helsinki/Helsingfors,unemployment_rate,EC1020I,10.11,2022,urb_clma
+LV,LV003C,Jelgava,population,DE1001V,54694.0,2022,urb_cpop1
+FR,FR073C,Hayange,population,DE1001V,67361.0,2022,urb_cpop1
+DE,DE003C,München,annual_rent_per_m2,SA1049V,14.8,2022,urb_clivcon
+DE,DE004C,Köln,annual_rent_per_m2,SA1049V,11.0,2022,urb_clivcon
+DE,DE005C,Frankfurt am Main,annual_rent_per_m2,SA1049V,11.7,2022,urb_clivcon
+DE,DE006C,Essen,annual_rent_per_m2,SA1049V,8.1,2022,urb_clivcon
+DE,DE007C,Stuttgart,annual_rent_per_m2,SA1049V,11.9,2022,urb_clivcon
+DE,DE008C,Leipzig,annual_rent_per_m2,SA1049V,7.7,2022,urb_clivcon
+DE,DE009C,Dresden,annual_rent_per_m2,SA1049V,8.4,2022,urb_clivcon
+DE,DE010C,Dortmund,annual_rent_per_m2,SA1049V,7.9,2022,urb_clivcon
+BG,BG013C,Yambol,annual_rent_per_m2,SA1049V,17.76,2022,urb_clivcon
+BG,BG014C,Haskovo,annual_rent_per_m2,SA1049V,22.87,2022,urb_clivcon
+BG,BG015C,Pazardzhik,annual_rent_per_m2,SA1049V,19.22,2022,urb_clivcon
+BG,BG016C,Blagoevgrad,annual_rent_per_m2,SA1049V,26.84,2022,urb_clivcon
+BG,BG017C,Veliko Tarnovo,annual_rent_per_m2,SA1049V,24.19,2022,urb_clivcon
+BG,BG018C,Vratsa,annual_rent_per_m2,SA1049V,26.41,2022,urb_clivcon
+DE,DE001C,Berlin,annual_rent_per_m2,SA1049V,9.3,2022,urb_clivcon
+DE,DE002C,Hamburg,annual_rent_per_m2,SA1049V,11.0,2022,urb_clivcon
+BG,BG005C,Pleven,annual_rent_per_m2,SA1049V,18.35,2022,urb_clivcon
+BG,BG006C,Ruse,annual_rent_per_m2,SA1049V,23.78,2022,urb_clivcon
+BG,BG007C,Vidin,annual_rent_per_m2,SA1049V,13.0,2022,urb_clivcon
+BG,BG008C,Stara Zagora,annual_rent_per_m2,SA1049V,20.12,2022,urb_clivcon
+BG,BG009C,Sliven,annual_rent_per_m2,SA1049V,18.58,2022,urb_clivcon
+BG,BG010C,Dobrich,annual_rent_per_m2,SA1049V,15.9,2022,urb_clivcon
+BG,BG011C,Shumen,annual_rent_per_m2,SA1049V,27.23,2022,urb_clivcon
+BG,BG012C,Pernik,annual_rent_per_m2,SA1049V,15.27,2022,urb_clivcon
+BG,BG001C,Sofia,annual_rent_per_m2,SA1049V,42.23,2022,urb_clivcon
+BG,BG002C,Plovdiv,annual_rent_per_m2,SA1049V,33.51,2022,urb_clivcon
+BG,BG003C,Varna,annual_rent_per_m2,SA1049V,29.76,2022,urb_clivcon
+BG,BG004C,Burgas,annual_rent_per_m2,SA1049V,28.85,2022,urb_clivcon
+DE,DE035C,Mainz,annual_rent_per_m2,SA1049V,11.0,2022,urb_clivcon
+DE,DE036C,Kiel,annual_rent_per_m2,SA1049V,9.0,2022,urb_clivcon
+DE,DE037C,Saarbrücken,annual_rent_per_m2,SA1049V,7.0,2022,urb_clivcon
+DE,DE038C,Potsdam,annual_rent_per_m2,SA1049V,9.5,2022,urb_clivcon
+DE,DE039C,Koblenz,annual_rent_per_m2,SA1049V,7.9,2022,urb_clivcon
+DE,DE040C,Rostock,annual_rent_per_m2,SA1049V,7.9,2022,urb_clivcon
+DE,DE041C,Kaiserslautern,annual_rent_per_m2,SA1049V,7.4,2022,urb_clivcon
+DE,DE042C,Iserlohn,annual_rent_per_m2,SA1049V,7.3,2022,urb_clivcon
+DE,DE027C,Frankfurt (Oder),annual_rent_per_m2,SA1049V,6.6,2022,urb_clivcon
+DE,DE028C,Weimar,annual_rent_per_m2,SA1049V,8.0,2022,urb_clivcon
+DE,DE029C,Schwerin,annual_rent_per_m2,SA1049V,7.4,2022,urb_clivcon
+DE,DE030C,Erfurt,annual_rent_per_m2,SA1049V,8.1,2022,urb_clivcon
+DE,DE031C,Augsburg,annual_rent_per_m2,SA1049V,10.4,2022,urb_clivcon
+DE,DE032C,Bonn,annual_rent_per_m2,SA1049V,10.0,2022,urb_clivcon
+DE,DE033C,Karlsruhe,annual_rent_per_m2,SA1049V,10.0,2022,urb_clivcon
+DE,DE034C,Mönchengladbach,annual_rent_per_m2,SA1049V,7.8,2022,urb_clivcon
+DE,DE019C,Wiesbaden,annual_rent_per_m2,SA1049V,10.8,2022,urb_clivcon
+DE,DE020C,Göttingen,annual_rent_per_m2,SA1049V,9.1,2022,urb_clivcon
+DE,DE021C,Mülheim a.d.Ruhr,annual_rent_per_m2,SA1049V,8.3,2022,urb_clivcon
+DE,DE022C,Moers,annual_rent_per_m2,SA1049V,7.8,2022,urb_clivcon
+DE,DE023C,Darmstadt,annual_rent_per_m2,SA1049V,10.5,2022,urb_clivcon
+DE,DE024C,Trier,annual_rent_per_m2,SA1049V,8.6,2022,urb_clivcon
+DE,DE025C,Freiburg im Breisgau,annual_rent_per_m2,SA1049V,11.8,2022,urb_clivcon
+DE,DE026C,Regensburg,annual_rent_per_m2,SA1049V,11.0,2022,urb_clivcon
+DE,DE011C,Düsseldorf,annual_rent_per_m2,SA1049V,10.9,2022,urb_clivcon
+DE,DE012C,Bremen,annual_rent_per_m2,SA1049V,8.8,2022,urb_clivcon
+DE,DE013C,Hannover,annual_rent_per_m2,SA1049V,9.1,2022,urb_clivcon
+DE,DE014C,Nürnberg,annual_rent_per_m2,SA1049V,9.5,2022,urb_clivcon
+DE,DE015C,Bochum,annual_rent_per_m2,SA1049V,7.8,2022,urb_clivcon
+DE,DE016C,Bielefeld,annual_rent_per_m2,SA1049V,8.2,2022,urb_clivcon
+DE,DE017C,Halle an der Saale,annual_rent_per_m2,SA1049V,7.2,2022,urb_clivcon
+DE,DE018C,Magdeburg,annual_rent_per_m2,SA1049V,7.2,2022,urb_clivcon
+DE,DE067C,Frankenthal (Pfalz),annual_rent_per_m2,SA1049V,7.4,2022,urb_clivcon
+DE,DE068C,Stralsund,annual_rent_per_m2,SA1049V,7.1,2022,urb_clivcon
+DE,DE069C,Friedrichshafen,annual_rent_per_m2,SA1049V,9.6,2022,urb_clivcon
+DE,DE070C,Offenburg,annual_rent_per_m2,SA1049V,8.3,2022,urb_clivcon
+DE,DE071C,Görlitz,annual_rent_per_m2,SA1049V,5.9,2022,urb_clivcon
+DE,DE072C,Sankt Augustin,annual_rent_per_m2,SA1049V,8.5,2022,urb_clivcon
+DE,DE073C,Neu-Ulm,annual_rent_per_m2,SA1049V,9.3,2022,urb_clivcon
+DE,DE074C,Schweinfurt,annual_rent_per_m2,SA1049V,7.4,2022,urb_clivcon
+DE,DE059C,Bamberg,annual_rent_per_m2,SA1049V,8.8,2022,urb_clivcon
+DE,DE060C,Plauen,annual_rent_per_m2,SA1049V,5.9,2022,urb_clivcon
+DE,DE061C,Neubrandenburg,annual_rent_per_m2,SA1049V,6.8,2022,urb_clivcon
+DE,DE062C,Fulda,annual_rent_per_m2,SA1049V,7.9,2022,urb_clivcon
+DE,DE063C,Kempten (Allgäu),annual_rent_per_m2,SA1049V,8.7,2022,urb_clivcon
+DE,DE064C,Landshut,annual_rent_per_m2,SA1049V,9.0,2022,urb_clivcon
+DE,DE065C,Sindelfingen,annual_rent_per_m2,SA1049V,9.9,2022,urb_clivcon
+DE,DE066C,Rosenheim,annual_rent_per_m2,SA1049V,10.1,2022,urb_clivcon
+DE,DE051C,Konstanz,annual_rent_per_m2,SA1049V,11.0,2022,urb_clivcon
+DE,DE052C,Neumünster,annual_rent_per_m2,SA1049V,7.1,2022,urb_clivcon
+DE,DE053C,Brandenburg an der Havel,annual_rent_per_m2,SA1049V,6.9,2022,urb_clivcon
+DE,DE054C,Gießen,annual_rent_per_m2,SA1049V,9.1,2022,urb_clivcon
+DE,DE055C,Lüneburg,annual_rent_per_m2,SA1049V,9.7,2022,urb_clivcon
+DE,DE056C,Bayreuth,annual_rent_per_m2,SA1049V,8.3,2022,urb_clivcon
+DE,DE057C,Celle,annual_rent_per_m2,SA1049V,7.6,2022,urb_clivcon
+DE,DE058C,Aschaffenburg,annual_rent_per_m2,SA1049V,9.0,2022,urb_clivcon
+DE,DE043C,Esslingen am Neckar (greater city),annual_rent_per_m2,SA1049V,11.5,2022,urb_clivcon
+DE,DE044C,Hanau,annual_rent_per_m2,SA1049V,9.1,2022,urb_clivcon
+DE,DE045C,Wilhelmshaven,annual_rent_per_m2,SA1049V,7.1,2022,urb_clivcon
+DE,DE046C,Ludwigsburg (greater city),annual_rent_per_m2,SA1049V,11.2,2022,urb_clivcon
+DE,DE047C,Tübingen,annual_rent_per_m2,SA1049V,12.5,2022,urb_clivcon
+DE,DE048C,Villingen-Schwenningen,annual_rent_per_m2,SA1049V,8.7,2022,urb_clivcon
+DE,DE049C,Flensburg,annual_rent_per_m2,SA1049V,8.7,2022,urb_clivcon
+DE,DE050C,Marburg,annual_rent_per_m2,SA1049V,9.6,2022,urb_clivcon
+DE,DE099C,Neuss,annual_rent_per_m2,SA1049V,9.1,2022,urb_clivcon
+DE,DE100C,Heidelberg,annual_rent_per_m2,SA1049V,11.7,2022,urb_clivcon
+DE,DE101C,Paderborn,annual_rent_per_m2,SA1049V,7.5,2022,urb_clivcon
+DE,DE102C,Würzburg,annual_rent_per_m2,SA1049V,9.9,2022,urb_clivcon
+DE,DE103C,Recklinghausen,annual_rent_per_m2,SA1049V,6.9,2022,urb_clivcon
+DE,DE104C,Wolfsburg,annual_rent_per_m2,SA1049V,8.5,2022,urb_clivcon
+DE,DE105C,Bremerhaven,annual_rent_per_m2,SA1049V,7.1,2022,urb_clivcon
+DE,DE106C,Bottrop,annual_rent_per_m2,SA1049V,7.7,2022,urb_clivcon
+DE,DE091C,Kassel,annual_rent_per_m2,SA1049V,7.9,2022,urb_clivcon
+DE,DE092C,Hamm,annual_rent_per_m2,SA1049V,7.1,2022,urb_clivcon
+DE,DE093C,Herne,annual_rent_per_m2,SA1049V,7.1,2022,urb_clivcon
+DE,DE094C,Solingen,annual_rent_per_m2,SA1049V,8.3,2022,urb_clivcon
+DE,DE095C,Osnabrück,annual_rent_per_m2,SA1049V,8.4,2022,urb_clivcon
+DE,DE096C,Ludwigshafen am Rhein,annual_rent_per_m2,SA1049V,8.8,2022,urb_clivcon
+DE,DE097C,Leverkusen,annual_rent_per_m2,SA1049V,8.5,2022,urb_clivcon
+DE,DE098C,Oldenburg (Oldenburg),annual_rent_per_m2,SA1049V,9.1,2022,urb_clivcon
+DE,DE083C,Münster,annual_rent_per_m2,SA1049V,9.8,2022,urb_clivcon
+DE,DE084C,Chemnitz,annual_rent_per_m2,SA1049V,6.6,2022,urb_clivcon
+DE,DE085C,Braunschweig,annual_rent_per_m2,SA1049V,8.4,2022,urb_clivcon
+DE,DE086C,Aachen,annual_rent_per_m2,SA1049V,9.2,2022,urb_clivcon
+DE,DE087C,Krefeld,annual_rent_per_m2,SA1049V,8.2,2022,urb_clivcon
+DE,DE088C,Oberhausen,annual_rent_per_m2,SA1049V,7.3,2022,urb_clivcon
+DE,DE089C,Lübeck,annual_rent_per_m2,SA1049V,8.8,2022,urb_clivcon
+DE,DE090C,Hagen,annual_rent_per_m2,SA1049V,6.9,2022,urb_clivcon
+DE,DE075C,Greifswald,annual_rent_per_m2,SA1049V,8.6,2022,urb_clivcon
+DE,DE076C,Wetzlar,annual_rent_per_m2,SA1049V,8.0,2022,urb_clivcon
+DE,DE077C,Speyer,annual_rent_per_m2,SA1049V,8.3,2022,urb_clivcon
+DE,DE078C,Passau,annual_rent_per_m2,SA1049V,8.5,2022,urb_clivcon
+DE,DE079C,Dessau-Roßlau,annual_rent_per_m2,SA1049V,6.6,2022,urb_clivcon
+DE,DE080C,Duisburg,annual_rent_per_m2,SA1049V,7.3,2022,urb_clivcon
+DE,DE081C,Mannheim,annual_rent_per_m2,SA1049V,9.7,2022,urb_clivcon
+DE,DE082C,Gelsenkirchen,annual_rent_per_m2,SA1049V,6.8,2022,urb_clivcon
+LV,LV,Latvia,annual_rent_per_m2,SA1049V,33.03,2022,urb_clivcon
+LV,LV002C,Liepāja,annual_rent_per_m2,SA1049V,14.11,2022,urb_clivcon
+LV,LV003C,Jelgava,annual_rent_per_m2,SA1049V,28.76,2022,urb_clivcon
+DE,DE123C,Erlangen,annual_rent_per_m2,SA1049V,10.3,2022,urb_clivcon
+DE,DE124C,Wuppertal,annual_rent_per_m2,SA1049V,7.3,2022,urb_clivcon
+DE,DE125C,Jena,annual_rent_per_m2,SA1049V,8.5,2022,urb_clivcon
+DE,DE126C,Düren,annual_rent_per_m2,SA1049V,7.0,2022,urb_clivcon
+DE,DE127C,Bocholt,annual_rent_per_m2,SA1049V,7.7,2022,urb_clivcon
+DE,DE115C,Reutlingen,annual_rent_per_m2,SA1049V,10.4,2022,urb_clivcon
+DE,DE116C,Fürth,annual_rent_per_m2,SA1049V,8.5,2022,urb_clivcon
+DE,DE117C,Cottbus,annual_rent_per_m2,SA1049V,7.2,2022,urb_clivcon
+DE,DE118C,Siegen,annual_rent_per_m2,SA1049V,8.2,2022,urb_clivcon
+DE,DE119C,Bergisch Gladbach,annual_rent_per_m2,SA1049V,9.7,2022,urb_clivcon
+DE,DE120C,Hildesheim,annual_rent_per_m2,SA1049V,7.4,2022,urb_clivcon
+DE,DE121C,Witten,annual_rent_per_m2,SA1049V,7.2,2022,urb_clivcon
+DE,DE122C,Zwickau,annual_rent_per_m2,SA1049V,6.4,2022,urb_clivcon
+DE,DE107C,Heilbronn,annual_rent_per_m2,SA1049V,9.6,2022,urb_clivcon
+DE,DE108C,Remscheid,annual_rent_per_m2,SA1049V,7.3,2022,urb_clivcon
+DE,DE109C,Offenbach am Main,annual_rent_per_m2,SA1049V,10.6,2022,urb_clivcon
+DE,DE110C,Ulm,annual_rent_per_m2,SA1049V,9.5,2022,urb_clivcon
+DE,DE111C,Pforzheim,annual_rent_per_m2,SA1049V,9.7,2022,urb_clivcon
+DE,DE112C,Ingolstadt,annual_rent_per_m2,SA1049V,10.4,2022,urb_clivcon
+DE,DE113C,Gera,annual_rent_per_m2,SA1049V,6.4,2022,urb_clivcon
+DE,DE114C,Salzgitter,annual_rent_per_m2,SA1049V,7.1,2022,urb_clivcon
+CZ,CZ016C,Most,population,DE1001V,62866.0,2022,urb_cpop1
+CZ,CZ017C,Karviná,population,DE1001V,49881.0,2022,urb_cpop1
+CZ,CZ018C,Chomutov-Jirkov (greater city),population,DE1001V,65208.0,2022,urb_cpop1
+CZ,CZ013C,Karlovy Vary,population,DE1001V,45500.0,2022,urb_cpop1
+CZ,CZ014C,Jihlava,population,DE1001V,50108.0,2022,urb_cpop1
+CZ,CZ015C,Havířov,population,DE1001V,69084.0,2022,urb_cpop1
+BG,BG007C,Vidin,population,DE1001V,38669.0,2022,urb_cpop1
+CZ,CZ008C,České Budějovice,population,DE1001V,93426.0,2022,urb_cpop1
+CZ,CZ009C,Hradec Králové,population,DE1001V,90596.0,2022,urb_cpop1
+CZ,CZ010C,Pardubice,population,DE1001V,88520.0,2022,urb_cpop1
+CZ,CZ011C,Zlín,population,DE1001V,72973.0,2022,urb_cpop1
+CZ,CZ012C,Kladno,population,DE1001V,66903.0,2022,urb_cpop1
+BG,BG018C,Vratsa,population,DE1001V,50012.0,2022,urb_cpop1
+CZ,CZ001C,Praha,population,DE1001V,1275406.0,2022,urb_cpop1
+CZ,CZ002C,Brno,population,DE1001V,379466.0,2022,urb_cpop1
+CZ,CZ003C,Ostrava,population,DE1001V,279791.0,2022,urb_cpop1
+CZ,CZ004C,Plzeň,population,DE1001V,168733.0,2022,urb_cpop1
+CZ,CZ005C,Ústí nad Labem,population,DE1001V,90378.0,2022,urb_cpop1
+CZ,CZ006C,Olomouc,population,DE1001V,99496.0,2022,urb_cpop1
+CZ,CZ007C,Liberec (greater city),population,DE1001V,102951.0,2022,urb_cpop1
+BG,BG013C,Yambol,population,DE1001V,63656.0,2022,urb_cpop1
+BG,BG016C,Blagoevgrad,population,DE1001V,67810.0,2022,urb_cpop1
+BG,BG015C,Pazardzhik,monthly_transport_ticket,TT1080V,18.9,2022,urb_ctran
+BG,BG016C,Blagoevgrad,monthly_transport_ticket,TT1080V,21.92,2022,urb_ctran
+BG,BG017C,Veliko Tarnovo,monthly_transport_ticket,TT1080V,51.13,2022,urb_ctran
+BG,BG018C,Vratsa,monthly_transport_ticket,TT1080V,19.43,2022,urb_ctran
+SK,SK002C,Košice (greater city),population,DE1001V,227458.0,2022,urb_cpop1
+SK,SK003C,Banská Bystrica,population,DE1001V,75317.0,2022,urb_cpop1
+NO,NO004C,Stavanger (greater city),population,DE1001V,210496.0,2022,urb_cpop1

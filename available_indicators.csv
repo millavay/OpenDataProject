@@ -1,0 +1,195 @@
+﻿dataset,category,indicator_code,indicator_name
+urb_cpop1,Population,DE1001V,"Population on the 1st of January, total"
+urb_cpop1,Population,DE1002V,"Population on the 1st of January, male"
+urb_cpop1,Population,DE1003V,"Population on the 1st of January, female"
+urb_cpop1,Population,DE1040V,"Population on the 1st of January, 0-4 years, total"
+urb_cpop1,Population,DE1041V,"Population on the 1st of January, 0-4 years, male"
+urb_cpop1,Population,DE1042V,"Population on the 1st of January, 0-4 years, female"
+urb_cpop1,Population,DE1074V,"Population on the 1st of January, 5-9 years, total"
+urb_cpop1,Population,DE1075V,"Population on the 1st of January, 5-9 years, male"
+urb_cpop1,Population,DE1076V,"Population on the 1st of January, 5-9 years, female"
+urb_cpop1,Population,DE1077V,"Population on the 1st of January, 10-14 years, total"
+urb_cpop1,Population,DE1078V,"Population on the 1st of January, 10-14 years, male"
+urb_cpop1,Population,DE1079V,"Population on the 1st of January, 10-14 years, female"
+urb_cpop1,Population,DE1046V,"Population on the 1st of January, 15-19 years, total"
+urb_cpop1,Population,DE1047V,"Population on the 1st of January, 15-19 years, male"
+urb_cpop1,Population,DE1048V,"Population on the 1st of January, 15-19 years, female"
+urb_cpop1,Population,DE1049V,"Population on the 1st of January, 20-24 years, total"
+urb_cpop1,Population,DE1050V,"Population on the 1st of January, 20-24 years, male"
+urb_cpop1,Population,DE1051V,"Population on the 1st of January, 20-24 years, female"
+urb_cpop1,Population,DE1101V,"Population on the 1st of January, 25-29 years, total"
+urb_cpop1,Population,DE1102V,"Population on the 1st of January, 25-29 years, male"
+urb_cpop1,Population,DE1103V,"Population on the 1st of January, 25-29 years, female"
+urb_cpop1,Population,DE1058V,"Population on the 1st of January, 25-34 years, total"
+urb_cpop1,Population,DE1059V,"Population on the 1st of January, 25-34 years, male"
+urb_cpop1,Population,DE1060V,"Population on the 1st of January, 25-34 years, female"
+urb_cpop1,Population,DE1104V,"Population on the 1st of January, 30-34 years, total"
+urb_cpop1,Population,DE1105V,"Population on the 1st of January, 30-34 years, male"
+urb_cpop1,Population,DE1106V,"Population on the 1st of January, 30-34 years, female"
+urb_cpop1,Population,DE1107V,"Population on the 1st of January, 35-39 years, total"
+urb_cpop1,Population,DE1108V,"Population on the 1st of January, 35-39 years, male"
+urb_cpop1,Population,DE1109V,"Population on the 1st of January, 35-39 years, female"
+urb_cpop1,Population,DE1061V,"Population on the 1st of January, 35-44 years, total"
+urb_cpop1,Population,DE1062V,"Population on the 1st of January, 35-44 years, male"
+urb_cpop1,Population,DE1063V,"Population on the 1st of January, 35-44 years, female"
+urb_cpop1,Population,DE1110V,"Population on the 1st of January, 40-44 years, total"
+urb_cpop1,Population,DE1111V,"Population on the 1st of January, 40-44 years, male"
+urb_cpop1,Population,DE1112V,"Population on the 1st of January, 40-44 years, female"
+urb_cpop1,Population,DE1113V,"Population on the 1st of January, 45-49 years, total"
+urb_cpop1,Population,DE1114V,"Population on the 1st of January, 45-49 years, male"
+urb_cpop1,Population,DE1115V,"Population on the 1st of January, 45-49 years, female"
+urb_cpop1,Population,DE1064V,"Population on the 1st of January, 45-54 years, total"
+urb_cpop1,Population,DE1065V,"Population on the 1st of January, 45-54 years, male"
+urb_cpop1,Population,DE1066V,"Population on the 1st of January, 45-54 years, female"
+urb_cpop1,Population,DE1116V,"Population on the 1st of January, 50-54 years, total"
+urb_cpop1,Population,DE1117V,"Population on the 1st of January, 50-54 years, male"
+urb_cpop1,Population,DE1118V,"Population on the 1st of January, 50-54 years, female"
+urb_cpop1,Population,DE1119V,"Population on the 1st of January, 55-59 years, total"
+urb_cpop1,Population,DE1120V,"Population on the 1st of January, 55-59 years, male"
+urb_cpop1,Population,DE1121V,"Population on the 1st of January, 55-59 years, female"
+urb_cpop1,Population,DE1025V,"Population on the 1st of January, 55-64 years, total"
+urb_cpop1,Population,DE1026V,"Population on the 1st of January, 55-64 years, male"
+urb_cpop1,Population,DE1027V,"Population on the 1st of January, 55-64 years, female"
+urb_cpop1,Population,DE1122V,"Population on the 1st of January, 60-64 years, total"
+urb_cpop1,Population,DE1123V,"Population on the 1st of January, 60-64 years, male"
+urb_cpop1,Population,DE1124V,"Population on the 1st of January, 60-64 years, female"
+urb_cpop1,Population,DE1125V,"Population on the 1st of January, 65-69 years, total"
+urb_cpop1,Population,DE1126V,"Population on the 1st of January, 65-69 years, male"
+urb_cpop1,Population,DE1127V,"Population on the 1st of January, 65-69 years, female"
+urb_cpop1,Population,DE1028V,"Population on the 1st of January, 65-74 years, total"
+urb_cpop1,Population,DE1029V,"Population on the 1st of January, 65-74 years, male"
+urb_cpop1,Population,DE1030V,"Population on the 1st of January, 65-74 years, female"
+urb_cpop1,Population,DE1128V,"Population on the 1st of January, 70-74 years, total"
+urb_cpop1,Population,DE1129V,"Population on the 1st of January, 70-74 years, male"
+urb_cpop1,Population,DE1130V,"Population on the 1st of January, 70-74 years, female"
+urb_cpop1,Population,DE1131V,"Population on the 1st of January, 75-79 years, total"
+urb_cpop1,Population,DE1132V,"Population on the 1st of January, 75-79 years, male"
+urb_cpop1,Population,DE1133V,"Population on the 1st of January, 75-79 years, female"
+urb_cpop1,Population,DE1055V,"Population on the 1st of January, 75 years and over, total"
+urb_cpop1,Population,DE1056V,"Population on the 1st of January, 75 years and over, male"
+urb_cpop1,Population,DE1057V,"Population on the 1st of January, 75 years and over, female"
+urb_cpop1,Population,DE1134V,"Population on the 1st of January, 80-84 years, total"
+urb_cpop1,Population,DE1135V,"Population on the 1st of January, 80-84 years, male"
+urb_cpop1,Population,DE1136V,"Population on the 1st of January, 80-84 years, female"
+urb_cpop1,Population,DE1137V,"Population on the 1st of January, 85 years or over, total"
+urb_cpop1,Population,DE1138V,"Population on the 1st of January, 85 years or over, male"
+urb_cpop1,Population,DE1139V,"Population on the 1st of January, 85 years or over, female"
+urb_clma,Labour Market,EC1002V,"Economically active population, male"
+urb_clma,Labour Market,EC1003V,"Economically active population, female"
+urb_clma,Labour Market,EC1174V,"Economically active population, 20-64, total"
+urb_clma,Labour Market,EC1175V,"Economically active population, 20-64, male"
+urb_clma,Labour Market,EC1176V,"Economically active population, 20-64, female"
+urb_clma,Labour Market,EC1145V,"Economically active population, 55-64, total"
+urb_clma,Labour Market,EC1146V,"Economically active population, 55-64, male"
+urb_clma,Labour Market,EC1147V,"Economically active population, 55-64, female"
+urb_clma,Labour Market,EC1010V,"Persons unemployed, total"
+urb_clma,Labour Market,EC1011V,"Persons unemployed, male"
+urb_clma,Labour Market,EC1012V,"Persons unemployed, female"
+urb_clma,Labour Market,EC1177V,"Persons employed, 20-64, total"
+urb_clma,Labour Market,EC1178V,"Persons employed, 20-64, male"
+urb_clma,Labour Market,EC1179V,"Persons employed, 20-64, female"
+urb_clma,Labour Market,EC1180V,"Persons employed, 55-64, total"
+urb_clma,Labour Market,EC1181V,"Persons employed, 55-64, male"
+urb_clma,Labour Market,EC1182V,"Persons employed, 55-64, female"
+urb_clma,Labour Market,EC2020V,Total employment/jobs (workplace based)
+urb_clma,Labour Market,EC2008V,"Employment (jobs) in agriculture, fishery (NACE Rev. 2, A)"
+urb_clma,Labour Market,EC2009V,"Employment (jobs) in mining, manufacturing, energy (NACE Rev. 2, B-E)"
+urb_clma,Labour Market,EC2022V,"Employment (jobs) in construction (NACE Rev. 2, F)"
+urb_clma,Labour Market,EC2032V,"Employment (jobs) in trade, transport, hotels, restaurants (NACE Rev. 2, G to I)"
+urb_clma,Labour Market,EC2033V,"Employment (jobs) in information and communication (NACE Rev. 2, J)"
+urb_clma,Labour Market,EC2034V,"Employment (jobs) in financial and insurance activities (NACE Rev. 2, K)"
+urb_clma,Labour Market,EC2035V,"Employment (jobs) in real estate activities (NACE Rev. 2, L)"
+urb_clma,Labour Market,EC2036V,"Employment (jobs) in professional, scientific and technical activities; administrative and support service activities (NACE Rev. 2, M and N)"
+urb_clma,Labour Market,EC2037V,"Employment (jobs) in public administration, defence, education, human health and social work activities (NACE Rev. 2, O to Q)"
+urb_clma,Labour Market,EC2038V,"Employment (jobs) in arts, entertainment and recreation; other service activities; activities of household and extra-territorial organizations and bodies (NACE Rev. 2, R to T)"
+urb_clma,Labour Market,EC1020I,Unemployment rate
+urb_clma,Labour Market,EC1011I,"Unemployment rate, male"
+urb_clma,Labour Market,EC1012I,"Unemployment rate, female"
+urb_clma,Labour Market,EC1001I,Activity rate
+urb_clma,Labour Market,EC1002I,"Activity rate, male"
+urb_clma,Labour Market,EC1003I,"Activity rate, female"
+urb_clivcon,Living Conditions,DE3001V,Private households (excluding institutional households)
+urb_clivcon,Living Conditions,DE3017V,Population living in private households (excluding institutional households)
+urb_clivcon,Living Conditions,DE3002V,One person households
+urb_clivcon,Living Conditions,DE3005V,Lone parent private households (with children aged 0 to under 18)
+urb_clivcon,Living Conditions,DE3008V,Lone pensioner (above retirement age) households
+urb_clivcon,Living Conditions,DE3011V,Households with children aged 0 to under 18
+urb_clivcon,Living Conditions,SA1001V,Number of conventional dwellings
+urb_clivcon,Living Conditions,SA1004V,Number of houses
+urb_clivcon,Living Conditions,SA1005V,Number of apartments
+urb_clivcon,Living Conditions,SA1007V,Number of households living in houses
+urb_clivcon,Living Conditions,SA1008V,Number of households living in apartments
+urb_clivcon,Living Conditions,SA1011V,Households owning their own dwelling
+urb_clivcon,Living Conditions,SA1012V,Households in social housing
+urb_clivcon,Living Conditions,SA1013V,Households in private rented housing
+urb_clivcon,Living Conditions,SA1029V,Number of people in accommodation for the homeless
+urb_clivcon,Living Conditions,SA1050V,Average price for buying a house - EUR
+urb_clivcon,Living Conditions,SA1051V,Average price for buying an apartment - EUR
+urb_clivcon,Living Conditions,SA1049V,Average annual rent for housing per m² - EUR
+urb_clivcon,Living Conditions,SA1018V,Dwellings lacking basic amenities
+urb_clivcon,Living Conditions,SA1025V,Empty conventional dwellings
+urb_clivcon,Living Conditions,SA1022V,Average area of living accommodation - m²/person
+urb_clivcon,Living Conditions,SA3005V,Number of murders and violent deaths
+urb_clivcon,Living Conditions,EC3039V,Median disposable annual household income - EUR
+urb_clivcon,Living Conditions,EC3040V,Average disposable annual household income - EUR
+urb_clivcon,Living Conditions,EC3064V,Share of persons living in households with very low work intensity - %
+urb_clivcon,Living Conditions,EC3065V,Share of persons at risk of poverty after social transfers -%
+urb_clivcon,Living Conditions,EC3066V,Share of severely materially deprived persons -%
+urb_clivcon,Living Conditions,EC3067V,Share of persons at risk of poverty or social exclusion -%
+urb_clivcon,Living Conditions,DE3004I,Average size of households
+urb_clivcon,Living Conditions,DE3002I,Proportion of households that are 1-person households
+urb_clivcon,Living Conditions,DE3005I,Proportion of households that are lone-parent households
+urb_clivcon,Living Conditions,DE3008I,Proportion of households that are lone-pensioner households
+urb_clivcon,Living Conditions,DE3011I,Proportion of households with children aged 0-17
+urb_clivcon,Living Conditions,DE3016I,Lone parent households per 100 households with children aged 0-17
+urb_clivcon,Living Conditions,SA1011I,Proportion of households living in owned dwellings
+urb_clivcon,Living Conditions,SA1007I,Proportion of households living in houses
+urb_clivcon,Living Conditions,SA1008I,Proportion of households living in apartments
+urb_clivcon,Living Conditions,SA1052V,Average price for buying a house per m2 - EUR
+urb_clivcon,Living Conditions,SA1053V,Average price for buying an apartment per m2 - EUR
+urb_cenv,Environment,EN1002V,Total number of hours of sunshine per day
+urb_cenv,Environment,EN1003V,Average temperature of warmest month - degrees
+urb_cenv,Environment,EN1004V,Average temperature of coldest month - degrees
+urb_cenv,Environment,EN1005V,Rainfall - litre/m²
+urb_cenv,Environment,EN2002V,Number of days ozone O3 concentrations exceed 120 µg/m³
+urb_cenv,Environment,EN2003V,Number of hours nitrogen dioxide NO2 concentrations exceed 200 µg/m³
+urb_cenv,Environment,EN2005V,Number of days particulate matter PM10 concentrations exceed 50 µg/m³
+urb_cenv,Environment,EN2025V,Accumulated ozone concentration in excess 70 µg/m³
+urb_cenv,Environment,EN2026V,Annual average concentration of NO2 (µg/m³)
+urb_cenv,Environment,EN2027V,Annual average concentration of PM10 (µg/m³)
+urb_cenv,Environment,EN3003V,Total use of water - m³
+urb_cenv,Environment,EN3012V,Share of population connected to potable drinking water system - %
+urb_cenv,Environment,EN3013V,Share of population connected to sewerage treatment system - %
+urb_cenv,Environment,EN3010V,Price of a m³ of domestic water - Euro
+urb_cenv,Environment,EN3011V,Share of the urban wastewater load (in population equivalents) treated according to the applicable standard -%
+urb_cenv,Environment,EN4008V,"Municipal waste generated (domestic and commercial), total - 1000 t"
+urb_cenv,Environment,EN5200V,Share of land (%): continuous residential urban fabric
+urb_cenv,Environment,EN5201V,Share of land (%): discontinuous residential urban fabric
+urb_cenv,Environment,EN5202V,"Share of land (%): industrial, commercial, public, military and private units"
+urb_cenv,Environment,EN5203V,Share of land (%): transport infrastructure
+urb_cenv,Environment,EN5204V,Share of land (%): other artificial areas
+urb_cenv,Environment,EN5205V,Share of land (%): green urban areas and sports and leisure facilities
+urb_cenv,Environment,EN5206V,Share of land (%): agricultural areas
+urb_cenv,Environment,EN5207V,Share of land (%): natural areas
+urb_cenv,Environment,EN2029I,Proportion of residents exposed to air traffic noise >55 dB(A) at night time
+urb_cenv,Environment,EN2032I,Proportion of residents exposed to rail traffic noise >65 dB(A) at day time
+urb_cenv,Environment,EN2036I,Proportion of residents exposed to rail traffic noise >55 dB(A) at night time
+urb_cenv,Environment,EN2033I,Proportion of residents exposed to road traffic noise >65 dB(A) at day time
+urb_cenv,Environment,EN2035I,Proportion of residents exposed to road traffic noise >55 dB(A) at night time
+urb_ctran,Transport,TT1003V,Share of journeys to work by car -%
+urb_ctran,Transport,TT1010V,"Share of journeys to work by public transport (rail, metro, bus, tram) -%"
+urb_ctran,Transport,TT1006V,Share of journeys to work by motorcycle -%
+urb_ctran,Transport,TT1007V,Share of journeys to work by bicycle -%
+urb_ctran,Transport,TT1008V,Share of journeys to work by foot -%
+urb_ctran,Transport,TT1012V,Share of journeys to work by car or motorcycle -%
+urb_ctran,Transport,TT1019V,Average time of journey to work - minutes
+urb_ctran,Transport,TT1020V,Average length of journey to work by private car - km
+urb_ctran,Transport,TT1064V,People commuting into the city
+urb_ctran,Transport,TT1065V,People commuting out of the city
+urb_ctran,Transport,TT1079V,Length of bicycle network (dedicated cycle paths and lanes) - km
+urb_ctran,Transport,TT1080V,Cost of a combined monthly ticket (all modes of public transport) for 5-10 km in the central zone - EUR
+urb_ctran,Transport,TT1081V,Cost of a taxi ride of 5 km to the centre at day time - EUR
+urb_ctran,Transport,TT1057V,Number of private cars registered
+urb_ctran,Transport,TT1060V,Number of deaths in road accidents
+urb_ctran,Transport,TT1057I,Number of registered cars per 1000 population
+urb_ctran,Transport,TT1060I,People killed in road accidents per 10000 pop.
